@@ -1,0 +1,629 @@
++--------------------------------------------------------------------------+------+
+|category                                                                  |count |
++--------------------------------------------------------------------------+------+
+|Beauty & Personal Care                                                    |844249|
+|Hair Care                                                                 |266495|
+|Skin Care                                                                 |174958|
+|Makeup                                                                    |105956|
+|Face                                                                      |104125|
+|Foot, Hand & Nail Care                                                    |103675|
+|Hair Extensions, Wigs & Accessories                                       |85019 |
+|Tools & Accessories                                                       |83926 |
+|Body                                                                      |81731 |
+|Nail Art & Polish                                                         |75691 |
+|Hair Accessories                                                          |53596 |
+|Cleansers                                                                 |46786 |
+|Fragrance                                                                 |46729 |
+|Eyes                                                                      |42706 |
+|Women's                                                                   |40424 |
+|Shampoo & Conditioner                                                     |38431 |
+|Hair Extensions                                                           |37269 |
+|Shave & Hair Removal                                                      |37257 |
+|Makeup Brushes & Tools                                                    |36996 |
+|Men's                                                                     |36892 |
+|Wigs                                                                      |34741 |
+|Personal Care                                                             |34272 |
+|Styling Tools & Appliances                                                |32837 |
+|Moisturizers                                                              |31626 |
+|Treatments & Masks                                                        |26700 |
+|Lips                                                                      |26258 |
+|Nail Polish                                                               |25469 |
+|Eye                                                                       |22576 |
+|Styling Products                                                          |22415 |
+|Creams & Moisturizers                                                     |19904 |
+|Clips & Barrettes                                                         |18952 |
+|Bath & Bathing Accessories                                                |18730 |
+|False Eyelashes & Adhesives                                               |18061 |
+|Clips                                                                     |17224 |
+|Shampoos                                                                  |16629 |
+|False Nails & Accessories                                                 |16567 |
+|Nail Art Accessories                                                      |16158 |
+|Lotions                                                                   |15615 |
+|Soaps                                                                     |15354 |
+|Eau de Parfum                                                             |14612 |
+|Lipstick                                                                  |14492 |
+|Headbands                                                                 |13827 |
+|Conditioners                                                              |13589 |
+|Masks                                                                     |13310 |
+|Eau de Toilette                                                           |12793 |
+|Serums                                                                    |11984 |
+|Body Washes                                                               |11908 |
+|Face Moisturizers                                                         |11683 |
+|Bathing Accessories                                                       |11621 |
+|False Lashes                                                              |11306 |
+|Hairpieces                                                                |11176 |
+|Sets & Kits                                                               |11057 |
+|Eyeshadow                                                                 |10876 |
+|Sunscreens & Tanning Products                                             |10727 |
+|Gels                                                                      |10382 |
+|Hair Brushes                                                              |10230 |
+|Elastics & Ties                                                           |10222 |
+|Bags & Cases                                                              |10032 |
+|Foundation                                                                |9911  |
+|Deodorants & Antiperspirants                                              |9909  |
+|Lip Care                                                                  |9689  |
+|Hair Coloring Products                                                    |9515  |
+|Foot & Hand Care                                                          |9250  |
+|Irons                                                                     |8644  |
+|Balms & Moisturizers                                                      |8393  |
+|Creams                                                                    |8283  |
+|Hair Cutting Tools                                                        |8133  |
+|Eyeliner                                                                  |7996  |
+|Press On Nails                                                            |7967  |
+|Lip Glosses                                                               |7912  |
+|Refillable Containers                                                     |7379  |
+|Eyebrow Color                                                             |7012  |
+|Nail Tools                                                                |6906  |
+|Bath                                                                      |6906  |
+|Skin Care Tools                                                           |6665  |
+|Oils                                                                      |6641  |
+|Hair Sprays                                                               |6459  |
+|Tools                                                                     |6365  |
+|Temporary Tattoos                                                         |6350  |
+|Brush Sets                                                                |6132  |
+|Sunscreens                                                                |5959  |
+|Electric Shavers                                                          |5937  |
+|Mascara                                                                   |5883  |
+|Deodorant                                                                 |5816  |
+|Washes                                                                    |5759  |
+|Cologne                                                                   |5744  |
+|Hair Color                                                                |5694  |
+|Hair Combs                                                                |5583  |
+|Salon & Spa                                                               |5564  |
+|Straighteners                                                             |5418  |
+|Hand Wash                                                                 |5325  |
+|Shampoo & Conditioner Sets                                                |5231  |
+|Beard & Mustache Care                                                     |5163  |
+|Stickers & Decals                                                         |5133  |
+|Hair Clippers & Accessories                                               |4932  |
+|Body Scrubs                                                               |4883  |
+|Piercing & Tattoo Supplies                                                |4849  |
+|Cosmetic Bags                                                             |4291  |
+|Razors & Blades                                                           |4277  |
+|Hair Pins                                                                 |4225  |
+|Powder                                                                    |4206  |
+|Tattoo Supplies                                                           |4154  |
+|Sets                                                                      |4153  |
+|Hand Creams & Lotions                                                     |4090  |
+|Body Butters                                                              |3989  |
+|Nail Files & Buffers                                                      |3965  |
+|Mirrors                                                                   |3836  |
+|Blush                                                                     |3807  |
+|Bath & Body Brushes                                                       |3655  |
+|Hair Loss Products                                                        |3509  |
+|Concealers & Neutralizers                                                 |3488  |
+|Toners & Astringents                                                      |3477  |
+|Hair Rollers                                                              |3437  |
+|Shower Caps                                                               |3342  |
+|Salon & Spa Equipment                                                     |3303  |
+|Waxing                                                                    |3291  |
+|Bath Bombs                                                                |3211  |
+|Body Sprays                                                               |3157  |
+|Nail Tips                                                                 |3051  |
+|Acrylic Nail Tools                                                        |3038  |
+|Antiperspirant Deodorant                                                  |3011  |
+|Shaving Creams, Lotions & Gels                                            |2990  |
+|Hair Dryers & Accessories                                                 |2968  |
+|Self-Tanners                                                              |2962  |
+|Blenders & Sponges                                                        |2812  |
+|Face Brushes                                                              |2773  |
+|Beard Conditioners & Oils                                                 |2670  |
+|Night Creams                                                              |2627  |
+|Makeup Palettes                                                           |2587  |
+|Body Sunscreens                                                           |2582  |
+|Hair Masks                                                                |2536  |
+|Scrubs                                                                    |2480  |
+|Hair Dryers                                                               |2464  |
+|Facial Sunscreens                                                         |2434  |
+|Nail Care                                                                 |2422  |
+|Foot Files                                                                |2395  |
+|Cloths & Towelettes                                                       |2354  |
+|Hair Regrowth Treatments                                                  |2340  |
+|Replacement Heads                                                         |2338  |
+|Nail Art Brushes                                                          |2292  |
+|Nail Clippers                                                             |2237  |
+|Makeup Mirrors                                                            |2234  |
+|National Lipstick Day                                                     |2223  |
+|Hair Treatment Oils                                                       |2154  |
+|Epilators, Groomers & Trimmers                                            |2151  |
+|Makeup Sets                                                               |2121  |
+|Eyelash Curlers                                                           |2059  |
+|Bath Salts                                                                |2025  |
+|Cotton Balls & Swabs                                                      |2021  |
+|Facial Cleansing Brushes                                                  |2012  |
+|Polishes & Scrubs                                                         |1977  |
+|Foundation Primers                                                        |1976  |
+|Bath Sponges                                                              |1948  |
+|Lip Liners                                                                |1928  |
+|Hair Clippers                                                             |1906  |
+|Claws                                                                     |1894  |
+|Professional Massage Equipment                                            |1887  |
+|Highlighters & Luminizers                                                 |1875  |
+|Face Oil                                                                  |1869  |
+|Shears                                                                    |1865  |
+|Tweezers                                                                  |1854  |
+|Bronzers                                                                  |1848  |
+|Shaving Accessories                                                       |1752  |
+|Makeup Remover                                                            |1747  |
+|Blackhead & Blemish Removers                                              |1739  |
+|Lash Enhancers & Primers                                                  |1732  |
+|Barrettes                                                                 |1716  |
+|Toiletry Bags                                                             |1712  |
+|Epilators                                                                 |1708  |
+|Facial Peels                                                              |1685  |
+|Curling Wands                                                             |1664  |
+|Nail Polish Remover                                                       |1658  |
+|Cartridges & Refills                                                      |1613  |
+|Foot Creams & Lotions                                                     |1602  |
+|Cuticle Tools                                                             |1568  |
+|Rhinestones                                                               |1543  |
+|Rotary Shavers                                                            |1539  |
+|Nose & Ear Hair Trimmers                                                  |1526  |
+|Shaving Creams                                                            |1469  |
+|Acrylic Powders & Liquids                                                 |1437  |
+|Curling Tongs                                                             |1370  |
+|Loofahs                                                                   |1322  |
+|Side Combs                                                                |1317  |
+|Foil Shavers                                                              |1307  |
+|Gel Polish                                                                |1290  |
+|Eyelash Adhesives                                                         |1266  |
+|Men's Grooming                                                            |1265  |
+|Lip Stains                                                                |1249  |
+|Beard & Mustache Combs                                                    |1243  |
+|Hot-Air Brushes                                                           |1200  |
+|Travel Cases                                                              |1197  |
+|2-in-1 Shampoo & Conditioner                                              |1195  |
+|Foundation Brushes                                                        |1189  |
+|Hair Cutting Kits                                                         |1146  |
+|Dip Manicure                                                              |1132  |
+|Coloring & Highlighting Tools                                             |1113  |
+|Facial Steamers                                                           |1066  |
+|Pomades                                                                   |1047  |
+|Nail Dryers                                                               |1039  |
+|Shaving & Grooming Sets                                                   |1039  |
+|Brush Cleaners                                                            |1030  |
+|Shaving Brushes                                                           |1020  |
+|Glitters                                                                  |1005  |
+|Wax                                                                       |993   |
+|Foot Masks                                                                |984   |
+|Finishing Trimmers                                                        |984   |
+|Cotton Swabs                                                              |978   |
+|Body Self-Tanners                                                         |976   |
+|After Shaves                                                              |970   |
+|Bun & Crown Shapers                                                       |966   |
+|Train Cases                                                               |958   |
+|Dry Shampoos                                                              |950   |
+|Cuticle Care                                                              |943   |
+|Cosmetic Display Cases                                                    |942   |
+|Mousses                                                                   |927   |
+|Waxing Kits                                                               |911   |
+|Powered Facial Cleansing Brushes & Devices                                |905   |
+|Hair Perms, Relaxers & Texturizers                                        |891   |
+|Base & Top Coats                                                          |885   |
+|Safety Razors                                                             |881   |
+|Kits                                                                      |865   |
+|After Sun                                                                 |844   |
+|Mascara Brushes                                                           |840   |
+|Cotton Pads & Rounds                                                      |836   |
+|Hair Drying Towels                                                        |836   |
+|Compact & Travel Mirrors                                                  |832   |
+|Disposable Razors                                                         |827   |
+|Tanning Oils & Lotions                                                    |816   |
+|Face Mists                                                                |812   |
+|Eyeshadow Brushes                                                         |803   |
+|Laser, Light & Electrolysis Hair Removal                                  |800   |
+|Nail Thickening Solution                                                  |798   |
+|Nail Strengthening                                                        |787   |
+|Depilatories                                                              |776   |
+|Beard & Mustache Trimmers                                                 |775   |
+|Foot Baths & Spas                                                         |772   |
+|BB Creams                                                                 |764   |
+|Manual Facial Cleansing Brushes                                           |733   |
+|Moisturizing Socks                                                        |726   |
+|Cuticle Pushers                                                           |718   |
+|Hennas                                                                    |714   |
+|Pore Cleansing Strips                                                     |708   |
+|Shaving Soaps                                                             |703   |
+|Light Hair Removal                                                        |695   |
+|Piercing Supplies                                                         |694   |
+|Body Paint                                                                |693   |
+|Ingrown Toenail Tools                                                     |691   |
+|Eyebrow Trimmers                                                          |690   |
+|Tattoo Machine Parts                                                      |678   |
+|Creams & Lotions                                                          |675   |
+|Scrubs & Body Treatments                                                  |673   |
+|Straight Razors                                                           |672   |
+|Spray Bottles                                                             |648   |
+|Aftercare Products                                                        |645   |
+|Shaving Gels                                                              |640   |
+|Dip Manicure Kits                                                         |638   |
+|Bubble Bath                                                               |634   |
+|Strips                                                                    |624   |
+|Tattoo Inks                                                               |601   |
+|Linens                                                                    |599   |
+|Waxes                                                                     |598   |
+|Nail Drill Bits                                                           |581   |
+|Hair Mascaras & Root Touch Ups                                            |574   |
+|Jars                                                                      |570   |
+|Accessories                                                               |565   |
+|Trimmer & Clipper Blades                                                  |564   |
+|Acrylic Powders                                                           |549   |
+|Salon & Spa Chairs                                                        |548   |
+|Wig Caps                                                                  |543   |
+|Body Glitter                                                              |536   |
+|Caps, Foils & Wraps                                                       |536   |
+|Decoration Kits                                                           |532   |
+|Deep Conditioners                                                         |530   |
+|Hair Relaxers                                                             |528   |
+|Tattoo Needles                                                            |526   |
+|Hair Chalk                                                                |517   |
+|Cuticle Nippers                                                           |514   |
+|Spa Beds & Tables                                                         |511   |
+|Adhesives                                                                 |506   |
+|Combination Base & Top Coats                                              |504   |
+|Tattoo Machines                                                           |501   |
+|Antiperspirants                                                           |494   |
+|Toe Separators                                                            |492   |
+|Scalp Treatments                                                          |492   |
+|Wig Head Stands                                                           |490   |
+|Curing Lamps                                                              |484   |
+|Moisturizing Gloves                                                       |480   |
+|Bath Oils                                                                 |480   |
+|CC Creams                                                                 |476   |
+|Body Groomers                                                             |475   |
+|Brow Brushes                                                              |474   |
+|Neck & Décolleté                                                          |474   |
+|Cuticle Oils                                                              |473   |
+|Roller Bottles                                                            |458   |
+|Tinted Moisturizers                                                       |450   |
+|Bars                                                                      |443   |
+|Hair Regrowth Shampoos                                                    |441   |
+|Hair Building Fibers                                                      |439   |
+|Foot Pumices                                                              |439   |
+|Dip Powder                                                                |437   |
+|Pump Dispensers                                                           |430   |
+|Microdermabrasion                                                         |429   |
+|Powder Puffs                                                              |416   |
+|Lip Brushes                                                               |411   |
+|Body Care                                                                 |409   |
+|Bath Pillows                                                              |397   |
+|Lip Plumpers                                                              |397   |
+|Wax Warmers & Accessories                                                 |388   |
+|Practice Hands & Fingers                                                  |378   |
+|Diffusers                                                                 |365   |
+|Nail Drills                                                               |364   |
+|Tattoo Kits                                                               |363   |
+|Concealer                                                                 |360   |
+|Paraffin Baths                                                            |356   |
+|Facial Rollers                                                            |353   |
+|Maternity                                                                 |353   |
+|Stampers & Scrapers                                                       |350   |
+|Blush Brushes                                                             |348   |
+|Templates                                                                 |343   |
+|Kabuki Brushes                                                            |332   |
+|Nail Glue                                                                 |327   |
+|Balms                                                                     |324   |
+|Clays                                                                     |308   |
+|Bikini Trimmers                                                           |300   |
+|Nail Cleaning Brushes                                                     |299   |
+|Makeup Cleansing Water                                                    |296   |
+|Deodorants                                                                |287   |
+|Piercing Kits                                                             |286   |
+|Clipper Combs & Guides                                                    |273   |
+|Foams                                                                     |271   |
+|Oral Care                                                                 |270   |
+|Razor & Brush Stands                                                      |265   |
+|Acrylic Nail Kits                                                         |264   |
+|Cuticle Scissors                                                          |256   |
+|Eyeliner Brushes                                                          |255   |
+|Styling Treatments                                                        |252   |
+|Face Belts                                                                |248   |
+|Nail Repair                                                               |246   |
+|Wrinkle & Anti-Aging Devices                                              |241   |
+|Top Coat                                                                  |240   |
+|Developers                                                                |238   |
+|Tools & Appliances                                                        |236   |
+|Salts & Soaks                                                             |234   |
+|Spa Storage Systems                                                       |234   |
+|Replacement Cleansing Brush Heads                                         |234   |
+|Mustache Waxes                                                            |228   |
+|Practice Nail Tips                                                        |227   |
+|Makeup Cleansing Wipes                                                    |226   |
+|Liner & Shadow Combinations                                               |222   |
+|Microdermabrasion Devices                                                 |221   |
+|Spa Slippers                                                              |221   |
+|Wrinkle Pads & Patches                                                    |220   |
+|High Frequency Machines                                                   |219   |
+|Eyeshadow Bases & Primers                                                 |218   |
+|Detanglers                                                                |218   |
+|Cartridge Razors                                                          |215   |
+|Fan Brushes                                                               |210   |
+|Hair & Scalp Treatments                                                   |208   |
+|Table Pads                                                                |203   |
+|Hand Rests                                                                |201   |
+|Hair Color Mixing Bowls                                                   |200   |
+|Dusting Powders                                                           |199   |
+|Wisp                                                                      |198   |
+|Spatulas                                                                  |197   |
+|Cotton Balls                                                              |196   |
+|Growth Formula                                                            |196   |
+|Body Mud                                                                  |187   |
+|Salon & Spa Stools                                                        |182   |
+|Shaving & Hair Removal                                                    |181   |
+|Putties                                                                   |176   |
+|Studs                                                                     |176   |
+|Color Refreshers                                                          |170   |
+|Concealer Brushes                                                         |165   |
+|Toothpaste                                                                |165   |
+|Shaving Soap Bowls                                                        |165   |
+|Mousses & Foams                                                           |154   |
+|Blotting Paper                                                            |154   |
+|Children's                                                                |151   |
+|Contour Brushes                                                           |151   |
+|Makeup Cleansing Foams                                                    |149   |
+|Gel                                                                       |148   |
+|Nail Studio Sets                                                          |147   |
+|Shaving Lotions                                                           |146   |
+|Cuticle Removing Fluids                                                   |146   |
+|Towel Warmers                                                             |144   |
+|Manicure Tables                                                           |142   |
+|Pomades & Waxes                                                           |142   |
+|Acrylic Liquids                                                           |137   |
+|Handheld Mirrors                                                          |136   |
+|3-in-1 Shampoo, Conditioner & Body Wash                                   |132   |
+|Eyebrow Scissors                                                          |132   |
+|Shower Steamers                                                           |127   |
+|Nail Tool Sterilizers                                                     |124   |
+|Drying Hoods                                                              |124   |
+|Galvanic Machines                                                         |122   |
+|Hair Tonics                                                               |121   |
+|Cuticle Protectors                                                        |120   |
+|Base Coat                                                                 |119   |
+|Shower Mirrors                                                            |116   |
+|Hand Masks                                                                |115   |
+|Cuticle Repair Creams                                                     |114   |
+|Shampoo                                                                   |112   |
+|Home Perm Kits                                                            |111   |
+|Fimo                                                                      |109   |
+|Lip Sunscreens                                                            |108   |
+|Applicator Bottles                                                        |104   |
+|Chemical Hair Straighteners                                               |101   |
+|Makeup Cleansing Oils                                                     |100   |
+|Personal Groomers                                                         |100   |
+|Dotting Tools                                                             |99    |
+|Hair Regrowth Conditioners                                                |98    |
+|Trimmers & Clippers                                                       |96    |
+|Lip Butters                                                               |95    |
+|Cleaners                                                                  |93    |
+|Oils & Serums                                                             |93    |
+|Eau Fraiche                                                               |92    |
+|Piercing Needles                                                          |92    |
+|Makeup Airbrushes                                                         |90    |
+|Crimpers                                                                  |90    |
+|Gift Sets                                                                 |89    |
+|Polishes                                                                  |88    |
+|Facial Self Tanners                                                       |85    |
+|Wraps                                                                     |84    |
+|Nail Art Glue                                                             |81    |
+|Hair Fragrances                                                           |80    |
+|Mustache Scissors                                                         |80    |
+|Daily Shampoo                                                             |79    |
+|Mouthwash & Breath Fresheners                                             |75    |
+|Razor Strops                                                              |73    |
+|Sharpeners                                                                |73    |
+|Beauty Outlet                                                             |69    |
+|Lipstick Primers                                                          |68    |
+|Wavers                                                                    |66    |
+|Makeup Cleansing Creams                                                   |66    |
+|Bleaching                                                                 |65    |
+|Styptic                                                                   |64    |
+|Acne Treatment Devices                                                    |62    |
+|Electrolysis                                                              |62    |
+|Striping Tape Lines                                                       |57    |
+|Color Removers                                                            |57    |
+|Nail Art Pens                                                             |56    |
+|Hair Bleach                                                               |52    |
+|Makeup Cleansing Gels                                                     |51    |
+|Root Lifting Powders                                                      |50    |
+|Lip Plumping Devices                                                      |50    |
+|Dip Powder Liquids                                                        |49    |
+|Indie Beauty                                                              |49    |
+|Hair Regrowth Devices                                                     |48    |
+|Salt Water Sprays                                                         |45    |
+|Texturizers                                                               |45    |
+|Feather Extensions                                                        |45    |
+|Color Additives & Fillers                                                 |44    |
+|INGS_Consumables                                                          |42    |
+|DD Creams                                                                 |42    |
+|Henna                                                                     |42    |
+|Color Refreshing Masks                                                    |41    |
+|Moisturizers & Treatments                                                 |38    |
+|Brushes, Combs & Needles                                                  |38    |
+|Perm Accessories                                                          |35    |
+|Nail Whitening                                                            |33    |
+|Color Conditioners                                                        |32    |
+|Tub Tea                                                                   |32    |
+|Pearls                                                                    |30    |
+|Herbal Beauty & Personal Care                                             |29    |
+|Color Correctors                                                          |29    |
+|Color Glazes                                                              |28    |
+|Makeup Cleansing Milk                                                     |28    |
+|Concentrator Nozzles                                                      |27    |
+|Alum                                                                      |27    |
+|Nail Forms                                                                |25    |
+|Beauty Markdowns                                                          |25    |
+|Hot Lather Machines                                                       |25    |
+|Kits & Gift Sets                                                          |24    |
+|Shampoo Plus Conditioner                                                  |23    |
+|Polish Correctors                                                         |23    |
+|Shear & Razor Cases                                                       |21    |
+|Thermal Styling Gloves                                                    |21    |
+|Beauty $5 Store                                                           |20    |
+|Free $10 Amazon Gift Card with Qualifying Purchase                        |18    |
+|Customers' Most-Loved: Beauty                                             |18    |
+|Whiteners                                                                 |18    |
+|Squeeze Bottles                                                           |18    |
+|Multi-Stylers                                                             |17    |
+|Piercing Guns                                                             |17    |
+|Shower Accessories                                                        |17    |
+|Hair Regrowth Tonics                                                      |16    |
+|Skin Cleansers                                                            |15    |
+|Shower Brushes                                                            |15    |
+|Shower Gels & Washes                                                      |14    |
+|Toiletry Kits                                                             |14    |
+|Indie Beauty | Color                                                      |14    |
+|Hands & Feet                                                              |13    |
+|Ridge Filler                                                              |13    |
+|Dryer Attachments                                                         |13    |
+|Perfumes & Fragrances                                                     |12    |
+|Highlight Kits                                                            |12    |
+|Power Toothbrushes                                                        |10    |
+|Razors with Soap Bars                                                     |10    |
+|Clippers & Trimmers                                                       |9     |
+|Customers' Most-Loved Beauty_Temp                                         |9     |
+|Glosses                                                                   |9     |
+|SnS                                                                       |9     |
+|Browse Luxury Beauty Gift with Purchase Qualifying Items                  |9     |
+|Hair & Scalp Care                                                         |9     |
+|Indie Beauty | Discover more                                              |9     |
+|Customers' Most-Loved Beauty v2                                           |8     |
+|Antica Farmacista Bath & Shower Wash Gift with Purchase                   |8     |
+|Putties & Clays                                                           |8     |
+|Luxury Beauty Gifts                                                       |8     |
+|Droppers                                                                  |8     |
+|Holiday Coupons | Beauty & Personal Care                                  |7     |
+|30% Off Select Luxury Beauty                                              |7     |
+|Prime Day 2017: Up to 40% Off Select Luxury Beauty                        |7     |
+|EF-Beauty-All                                                             |6     |
+|Powders                                                                   |6     |
+|Foot, Hand & Nail Tools                                                   |6     |
+|Fiberglass & Silk Wraps                                                   |6     |
+|$5 Off $15: Hair Products from L'Oreal Paris, Garnier, & Soft Sheen Carson|6     |
+|+10% Off - Beauty & Personal Care                                         |5     |
+|Teen Scents                                                               |5     |
+|Indie Beauty | Hair care                                                  |5     |
+|Beauty New Arrivals                                                       |5     |
+|Natural Store                                                             |5     |
+|Beauty & Personal Care for Women                                          |4     |
+|Up to 20% off Essential Oils                                              |4     |
+|Skin Care Gifts                                                           |4     |
+|Browse Gift with Purchase Promotion Qualifying Items                      |4     |
+|WEN by CD Gift with Purchase Qualifying Items                             |4     |
+|Men's Grooming & Personal Care                                            |4     |
+|Indie Beauty | Beauty under $20                                           |4     |
+|Site Merch Beauty ASINs                                                   |4     |
+|Beauty Back to School                                                     |3     |
+|Customers' Most-Loved Beauty                                              |3     |
+|Indie Beauty | Hair                                                       |3     |
+|Tools & Brushes                                                           |3     |
+|Indie Beauty | Skin care                                                  |3     |
+|Blade Storage                                                             |3     |
+|Frustration-Free Packaging: Beauty - US                                   |3     |
+|Hand Lotions                                                              |3     |
+|Indie Beauty | Black-owned brands                                         |3     |
+|Fall Colors                                                               |3     |
+|WEN by Chaz Dean                                                          |3     |
+|Indie Beauty | Fragrance                                                  |3     |
+|Face Cleansing Foaming Nets                                               |3     |
+|Beauty Summer Sun Care                                                    |3     |
+|Fragrance Gifts                                                           |3     |
+|Hair Coloring                                                             |3     |
+|Indie Beauty | Self-care essentials                                       |2     |
+|Browse Gift with Purchase Qualifying Items                                |2     |
+|Shaving                                                                   |2     |
+|Groom with Dove Men + Care, Axe, & More                                   |2     |
+|Bath & Body                                                               |2     |
+|Klorane                                                                   |2     |
+|3-in-1 Shampoo                                                            |2     |
+|Calvin Klein                                                              |2     |
+|Women's Shave and Hair Removal Sample Credit                              |2     |
+|Professional Skin Care                                                    |2     |
+|Valentine's Day beauty & grooming gifts                                   |2     |
+|Virtual Try On                                                            |2     |
+|Luxury Beauty Valentine's Day                                             |2     |
+|Wavy                                                                      |2     |
+|Osmotics Cosmeceuticals                                                   |2     |
+|Nexxus Hair Products                                                      |1     |
+|$10 Off $30 on Simple, Pond's, St. Ives & More                            |1     |
+|Aveeno Sample Box                                                         |1     |
+|Relaxed                                                                   |1     |
+|2022 BFCM Premium Preview                                                 |1     |
+|Robes                                                                     |1     |
+|Popular Accessories                                                       |1     |
+|Nurse Jamie                                                               |1     |
+|Zeitgeist Stop List - Fresh – Beauty                                      |1     |
+|Elizabeth Arden                                                           |1     |
+|Prime Day 2016 Up to 50% Off Select Luxury Beauty Products                |1     |
+|Skin Care Products                                                        |1     |
+|Best of Body                                                              |1     |
+|under25-textured                                                          |1     |
+|FHI Gift with Purchase                                                    |1     |
+|Beauty Off to College                                                     |1     |
+|Biore Mother's Day                                                        |1     |
+|Beard Care                                                                |1     |
+|Peter Thomas Roth                                                         |1     |
+|Beauty Sample Box                                                         |1     |
+|Hair Care Gifts                                                           |1     |
+|Cuticle Tool Sets                                                         |1     |
+|Red Flower                                                                |1     |
+|Save $10 on select Beauty                                                 |1     |
+|Braids: Favorite Hair Ties                                                |1     |
+|20% Off Hair Care                                                         |1     |
+|Parfums de Marly                                                          |1     |
+|WEN by Chaz Dean Gift with Purchase                                       |1     |
+|Prime Day 50% Off Select Luxury Beauty Products                           |1     |
+|Indie Beauty | Female-owned brands                                        |1     |
+|Beauty Coupons                                                            |1     |
+|Premium Beauty finds from Elemis, Crepe Erase, and more                   |1     |
+|The BrowGal                                                               |1     |
+|Essential Oils                                                            |1     |
+|Foot Lotions                                                              |1     |
+|Body Lotions and Skin Care Sample Credit                                  |1     |
+|Jouer                                                                     |1     |
+|Emerald Tones                                                             |1     |
+|Buy 2, Get 1 From Your Herbal Essences & Pantene Favorites                |1     |
+|Manual Toothbrushes                                                       |1     |
+|All Products                                                              |1     |
+|bliss                                                                     |1     |
+|Care for Your Hair with Herbal Essences                                   |1     |
+|bath and body                                                             |1     |
+|Indie Beauty | Beauty under $30                                           |1     |
+|Summer Sun Care                                                           |1     |
+|B1G50% Off 2nd Hair Care Item                                             |1     |
+|Save up to 30% on beauty & personal care products                         |1     |
+|Korean Beauty Makeup                                                      |1     |
+|Indie Lee                                                                 |1     |
+|cosmetics                                                                 |1     |
+|Stains                                                                    |1     |
+|Beauty & Skincare                                                         |1     |
+|Allure Best of Beauty v3                                                  |1     |
+|Indie Beauty | Men's Grooming                                             |1     |
+|Award Winning Beauty                                                      |1     |
+|Garnier Whole Blends                                                      |1     |
+|Beauty Gifts for Her                                                      |1     |
+|Body Lotion                                                               |1     |
+|Classic Holiday Look                                                      |1     |
+|Karuna                                                                    |1     |
+|Patanjali Ayurved                                                         |1     |
+
++--------------------------------------------------------------------------+------+

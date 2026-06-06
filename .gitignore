@@ -1,0 +1,22 @@
+*.json
+*.jsonl
+
+ssh B6602017@192.168.102.21.txt
+01_extract/1_input_BeautyCare.jsonl
+01_extract/1_output_meta_Beauty_and_Personal_Care.jsonl
+
+02_preprocessing/final_for_analyze.json
+02_preprocessing/combined_beautycare.jsonl
+
+03_classification/beautycare_category_cleaned_only_category/
+
+04_sentiment/products_sentiment
+04_sentiment/beautycare_sentiment_merged.json
+
+07_utilities/Final.json
+07_utilities/merged_reviews.json
+
+split_by_category/
+tfidf_output_by_category_rating/
+
+data/

@@ -1,0 +1,1501 @@
+new_main_category,tag,sentiment,term,score,review_count,word_count
+Bodycare,Packaging,negative,used,0.064196684,1166,50
+Bodycare,Packaging,negative,broken,0.06092343,1166,50
+Bodycare,Packaging,negative,small,0.058714803,1166,50
+Bodycare,Packaging,negative,received,0.049220463,1166,50
+Bodycare,Packaging,negative,thick,0.043640296,1166,50
+Bodycare,Packaging,negative,little,0.042665454,1166,50
+Bodycare,Packaging,negative,return,0.039020773,1166,50
+Bodycare,Packaging,negative,hard,0.037806979,1166,50
+Bodycare,Packaging,negative,work,0.035078739,1166,50
+Bodycare,Packaging,negative,empty,0.034154003,1166,50
+Bodycare,Packaging,negative,smell,0.033123638,1166,50
+Bodycare,Packaging,negative,terrible,0.031075019,1166,50
+Bodycare,Packaging,negative,leaked,0.031029562,1166,50
+Bodycare,Packaging,negative,waste,0.03021387,1166,50
+Bodycare,Packaging,negative,difficult,0.027995106,1166,50
+Bodycare,Packaging,negative,horrible,0.027262547,1166,50
+Bodycare,Packaging,negative,scent,0.026556609,1166,50
+Bodycare,Packaging,negative,purchased,0.025160414,1166,50
+Bodycare,Packaging,negative,unfortunately,0.024863158,1166,50
+Bodycare,Packaging,negative,opened,0.02289465,1166,50
+Bodycare,Packaging,negative,impossible,0.022467558,1166,50
+Bodycare,Packaging,negative,expensive,0.022298152,1166,50
+Bodycare,Packaging,negative,rub,0.022184835,1166,50
+Bodycare,Packaging,negative,awful,0.022102981,1166,50
+Bodycare,Packaging,negative,leaking,0.021437559,1166,50
+Bodycare,Packaging,negative,plastic,0.021146408,1166,50
+Bodycare,Packaging,negative,should,0.020727112,1166,50
+Bodycare,Packaging,negative,disappointing,0.020227755,1166,50
+Bodycare,Packaging,negative,fake,0.020028628,1166,50
+Bodycare,Packaging,negative,works,0.02002548,1166,50
+Bodycare,Packaging,negative,package,0.01989978,1166,50
+Bodycare,Packaging,negative,look,0.019894522,1166,50
+Bodycare,Packaging,negative,item,0.019774226,1166,50
+Bodycare,Packaging,negative,vacation,0.019455606,1166,50
+Bodycare,Packaging,negative,alcohol,0.019344195,1166,50
+Bodycare,Packaging,negative,label,0.019314291,1166,50
+Bodycare,Packaging,negative,spf,0.01906137,1166,50
+Bodycare,Packaging,negative,leaves,0.018657172,1166,50
+Bodycare,Packaging,negative,tried,0.018552626,1166,50
+Bodycare,Packaging,negative,few,0.018096781,1166,50
+Bodycare,Packaging,negative,worst,0.018021645,1166,50
+Bodycare,Packaging,negative,away,0.017841716,1166,50
+Bodycare,Packaging,negative,down,0.017432308,1166,50
+Bodycare,Packaging,negative,old,0.017387857,1166,50
+Bodycare,Packaging,negative,nothing,0.017338775,1166,50
+Bodycare,Packaging,negative,recommend,0.017177637,1166,50
+Bodycare,Packaging,negative,wouldnt,0.017062661,1166,50
+Bodycare,Packaging,negative,brand,0.016201896,1166,50
+Bodycare,Packaging,negative,spread,0.015763555,1166,50
+Bodycare,Packaging,negative,rubbing,0.01485078,1166,50
+Bodycare,Packaging,positive,used,0.065954758,5639,50
+Bodycare,Packaging,positive,scent,0.064193753,5639,50
+Bodycare,Packaging,positive,smell,0.061107346,5639,50
+Bodycare,Packaging,positive,works,0.057067291,5639,50
+Bodycare,Packaging,positive,easy,0.049318992,5639,50
+Bodycare,Packaging,positive,little,0.044884616,5639,50
+Bodycare,Packaging,positive,light,0.041678576,5639,50
+Bodycare,Packaging,positive,protection,0.036804396,5639,50
+Bodycare,Packaging,positive,spf,0.036117636,5639,50
+Bodycare,Packaging,positive,price,0.035945443,5639,50
+Bodycare,Packaging,positive,better,0.033613765,5639,50
+Bodycare,Packaging,positive,long,0.032329688,5639,50
+Bodycare,Packaging,positive,greasy,0.031559534,5639,50
+Bodycare,Packaging,positive,burn,0.031180741,5639,50
+Bodycare,Packaging,positive,old,0.030270189,5639,50
+Bodycare,Packaging,positive,perfect,0.030025792,5639,50
+Bodycare,Packaging,positive,easily,0.028880915,5639,50
+Bodycare,Packaging,positive,sensitive,0.028794521,5639,50
+Bodycare,Packaging,positive,recommend,0.028337601,5639,50
+Bodycare,Packaging,positive,size,0.027925599,5639,50
+Bodycare,Packaging,positive,aftershave,0.027858165,5639,50
+Bodycare,Packaging,positive,sunscreens,0.0275247,5639,50
+Bodycare,Packaging,positive,most,0.026968889,5639,50
+Bodycare,Packaging,positive,work,0.026952752,5639,50
+Bodycare,Packaging,positive,need,0.026931687,5639,50
+Bodycare,Packaging,positive,last,0.02687406,5639,50
+Bodycare,Packaging,positive,shave,0.026516201,5639,50
+Bodycare,Packaging,positive,lot,0.025920341,5639,50
+Bodycare,Packaging,positive,top,0.0256974,5639,50
+Bodycare,Packaging,positive,tried,0.02569041,5639,50
+Bodycare,Packaging,positive,kids,0.025563988,5639,50
+Bodycare,Packaging,positive,definitely,0.023776065,5639,50
+Bodycare,Packaging,positive,small,0.023646901,5639,50
+Bodycare,Packaging,positive,ingredients,0.023043752,5639,50
+Bodycare,Packaging,positive,fair,0.022792158,5639,50
+Bodycare,Packaging,positive,rub,0.022774089,5639,50
+Bodycare,Packaging,positive,look,0.022436151,5639,50
+Bodycare,Packaging,positive,brand,0.022126358,5639,50
+Bodycare,Packaging,positive,getting,0.022046781,5639,50
+Bodycare,Packaging,positive,want,0.021763392,5639,50
+Bodycare,Packaging,positive,tan,0.021692257,5639,50
+Bodycare,Packaging,positive,summer,0.021146823,5639,50
+Bodycare,Packaging,positive,safe,0.020994576,5639,50
+Bodycare,Packaging,positive,strong,0.020463396,5639,50
+Bodycare,Packaging,positive,different,0.020363451,5639,50
+Bodycare,Packaging,positive,found,0.019807531,5639,50
+Bodycare,Packaging,positive,zinc,0.019686478,5639,50
+Bodycare,Packaging,positive,sunblock,0.019531894,5639,50
+Bodycare,Packaging,positive,hours,0.018797795,5639,50
+Bodycare,Packaging,positive,reef,0.017465231,5639,50
+Bodycare,Packing,negative,protection,0.195458842,396,50
+Bodycare,Packing,negative,used,0.070790278,396,50
+Bodycare,Packing,negative,damaged,0.059118458,396,50
+Bodycare,Packing,negative,broken,0.058930863,396,50
+Bodycare,Packing,negative,received,0.045657377,396,50
+Bodycare,Packing,negative,thick,0.041628195,396,50
+Bodycare,Packing,negative,little,0.039544146,396,50
+Bodycare,Packing,negative,spf,0.037409337,396,50
+Bodycare,Packing,negative,opened,0.037159731,396,50
+Bodycare,Packing,negative,sealed,0.035815291,396,50
+Bodycare,Packing,negative,return,0.034883202,396,50
+Bodycare,Packing,negative,horrible,0.033057649,396,50
+Bodycare,Packing,negative,hard,0.030853139,396,50
+Bodycare,Packing,negative,item,0.030583894,396,50
+Bodycare,Packing,negative,delivery,0.029442173,396,50
+Bodycare,Packing,negative,unfortunately,0.029140612,396,50
+Bodycare,Packing,negative,difficult,0.024938912,396,50
+Bodycare,Packing,negative,worst,0.024459278,396,50
+Bodycare,Packing,negative,smell,0.024196315,396,50
+Bodycare,Packing,negative,empty,0.024038255,396,50
+Bodycare,Packing,negative,work,0.024005365,396,50
+Bodycare,Packing,negative,works,0.02386892,396,50
+Bodycare,Packing,negative,tube,0.023208566,396,50
+Bodycare,Packing,negative,need,0.022737531,396,50
+Bodycare,Packing,negative,recommend,0.022626485,396,50
+Bodycare,Packing,negative,looks,0.022170561,396,50
+Bodycare,Packing,negative,package,0.022045747,396,50
+Bodycare,Packing,negative,packaging,0.02170066,396,50
+Bodycare,Packing,negative,terrible,0.021687717,396,50
+Bodycare,Packing,negative,open,0.020965717,396,50
+Bodycare,Packing,negative,should,0.020156248,396,50
+Bodycare,Packing,negative,greasy,0.020109621,396,50
+Bodycare,Packing,negative,expensive,0.019916699,396,50
+Bodycare,Packing,negative,rub,0.019295032,396,50
+Bodycare,Packing,negative,burned,0.018804644,396,50
+Bodycare,Packing,negative,look,0.018781085,396,50
+Bodycare,Packing,negative,hours,0.018664845,396,50
+Bodycare,Packing,negative,times,0.01836147,396,50
+Bodycare,Packing,negative,long,0.018322709,396,50
+Bodycare,Packing,negative,awful,0.017843824,396,50
+Bodycare,Packing,negative,purchased,0.017747864,396,50
+Bodycare,Packing,negative,burnt,0.017522025,396,50
+Bodycare,Packing,negative,give,0.017347108,396,50
+Bodycare,Packing,negative,provide,0.017004039,396,50
+Bodycare,Packing,negative,date,0.016933923,396,50
+Bodycare,Packing,negative,tried,0.016675182,396,50
+Bodycare,Packing,negative,burn,0.016460367,396,50
+Bodycare,Packing,negative,minutes,0.015485416,396,50
+Bodycare,Packing,negative,brand,0.015019969,396,50
+Bodycare,Packing,negative,powder,0.013091148,396,50
+Bodycare,Packing,positive,protection,0.276014453,4830,50
+Bodycare,Packing,positive,easy,0.06454319,4830,50
+Bodycare,Packing,positive,used,0.058755645,4830,50
+Bodycare,Packing,positive,greasy,0.051982235,4830,50
+Bodycare,Packing,positive,delivery,0.050046184,4830,50
+Bodycare,Packing,positive,smell,0.048919886,4830,50
+Bodycare,Packing,positive,spf,0.044875056,4830,50
+Bodycare,Packing,positive,works,0.040926444,4830,50
+Bodycare,Packing,positive,scent,0.04005863,4830,50
+Bodycare,Packing,positive,provides,0.039188211,4830,50
+Bodycare,Packing,positive,sensitive,0.038474775,4830,50
+Bodycare,Packing,positive,light,0.034819101,4830,50
+Bodycare,Packing,positive,easily,0.033506562,4830,50
+Bodycare,Packing,positive,perfect,0.032096969,4830,50
+Bodycare,Packing,positive,need,0.031854656,4830,50
+Bodycare,Packing,positive,little,0.029133669,4830,50
+Bodycare,Packing,positive,sunscreens,0.028908682,4830,50
+Bodycare,Packing,positive,gives,0.027933527,4830,50
+Bodycare,Packing,positive,recommend,0.02634173,4830,50
+Bodycare,Packing,positive,price,0.02593105,4830,50
+Bodycare,Packing,positive,long,0.025564302,4830,50
+Bodycare,Packing,positive,better,0.025266256,4830,50
+Bodycare,Packing,positive,burn,0.024720674,4830,50
+Bodycare,Packing,positive,zinc,0.02348094,4830,50
+Bodycare,Packing,positive,thick,0.022607062,4830,50
+Bodycare,Packing,positive,found,0.021401402,4830,50
+Bodycare,Packing,positive,most,0.020544033,4830,50
+Bodycare,Packing,positive,favorite,0.020376412,4830,50
+Bodycare,Packing,positive,safe,0.020130505,4830,50
+Bodycare,Packing,positive,rub,0.019831382,4830,50
+Bodycare,Packing,positive,fair,0.019645177,4830,50
+Bodycare,Packing,positive,kids,0.019462151,4830,50
+Bodycare,Packing,positive,tried,0.019084755,4830,50
+Bodycare,Packing,positive,hours,0.019007682,4830,50
+Bodycare,Packing,positive,tan,0.018906898,4830,50
+Bodycare,Packing,positive,highly,0.018496582,4830,50
+Bodycare,Packing,positive,summer,0.018162909,4830,50
+Bodycare,Packing,positive,happy,0.018115525,4830,50
+Bodycare,Packing,positive,recommended,0.018082675,4830,50
+Bodycare,Packing,positive,look,0.017969213,4830,50
+Bodycare,Packing,positive,work,0.017641457,4830,50
+Bodycare,Packing,positive,brand,0.017554332,4830,50
+Bodycare,Packing,positive,definitely,0.017456197,4830,50
+Bodycare,Packing,positive,makeup,0.016992611,4830,50
+Bodycare,Packing,positive,lot,0.016964214,4830,50
+Bodycare,Packing,positive,wear,0.016412271,4830,50
+Bodycare,Packing,positive,want,0.016250522,4830,50
+Bodycare,Packing,positive,mineral,0.015434968,4830,50
+Bodycare,Packing,positive,reapply,0.015396064,4830,50
+Bodycare,Packing,positive,ingredients,0.015357605,4830,50
+Bodycare,Quality,negative,smell,0.065247066,2994,50
+Bodycare,Quality,negative,used,0.064225601,2994,50
+Bodycare,Quality,negative,oily,0.059780606,2994,50
+Bodycare,Quality,negative,dry,0.057973597,2994,50
+Bodycare,Quality,negative,burned,0.040433264,2994,50
+Bodycare,Quality,negative,thick,0.040256752,2994,50
+Bodycare,Quality,negative,work,0.037730094,2994,50
+Bodycare,Quality,negative,badly,0.037127757,2994,50
+Bodycare,Quality,negative,little,0.036780017,2994,50
+Bodycare,Quality,negative,greasy,0.0362165,2994,50
+Bodycare,Quality,negative,burn,0.035050002,2994,50
+Bodycare,Quality,negative,hard,0.032811456,2994,50
+Bodycare,Quality,negative,works,0.03137494,2994,50
+Bodycare,Quality,negative,leaves,0.030432252,2994,50
+Bodycare,Quality,negative,tried,0.029155049,2994,50
+Bodycare,Quality,negative,terrible,0.028884632,2994,50
+Bodycare,Quality,negative,horrible,0.02872996,2994,50
+Bodycare,Quality,negative,recommend,0.026269296,2994,50
+Bodycare,Quality,negative,poor,0.026220159,2994,50
+Bodycare,Quality,negative,worst,0.02570265,2994,50
+Bodycare,Quality,negative,rub,0.025550032,2994,50
+Bodycare,Quality,negative,look,0.025253188,2994,50
+Bodycare,Quality,negative,return,0.025045755,2994,50
+Bodycare,Quality,negative,protection,0.024545216,2994,50
+Bodycare,Quality,negative,sensitive,0.024410532,2994,50
+Bodycare,Quality,negative,sunburn,0.02436949,2994,50
+Bodycare,Quality,negative,scent,0.023712239,2994,50
+Bodycare,Quality,negative,awful,0.023552312,2994,50
+Bodycare,Quality,negative,hours,0.023212911,2994,50
+Bodycare,Quality,negative,spf,0.022389868,2994,50
+Bodycare,Quality,negative,cast,0.022266337,2994,50
+Bodycare,Quality,negative,reviews,0.021870659,2994,50
+Bodycare,Quality,negative,away,0.021145183,2994,50
+Bodycare,Quality,negative,rash,0.020707593,2994,50
+Bodycare,Quality,negative,expensive,0.020644403,2994,50
+Bodycare,Quality,negative,ingredients,0.02000966,2994,50
+Bodycare,Quality,negative,sunscreens,0.019918263,2994,50
+Bodycare,Quality,negative,times,0.019844446,2994,50
+Bodycare,Quality,negative,kids,0.019816886,2994,50
+Bodycare,Quality,negative,brand,0.019230031,2994,50
+Bodycare,Quality,negative,applying,0.018530247,2994,50
+Bodycare,Quality,negative,hate,0.018172616,2994,50
+Bodycare,Quality,negative,spread,0.018059037,2994,50
+Bodycare,Quality,negative,tube,0.01740429,2994,50
+Bodycare,Quality,negative,burnt,0.017325125,2994,50
+Bodycare,Quality,negative,few,0.016869487,2994,50
+Bodycare,Quality,negative,wash,0.016473974,2994,50
+Bodycare,Quality,negative,he,0.015606854,2994,50
+Bodycare,Quality,negative,minutes,0.015446717,2994,50
+Bodycare,Quality,negative,sunblock,0.01536,2994,50
+Bodycare,Quality,positive,smell,0.059035071,40391,50
+Bodycare,Quality,positive,excellent,0.055265465,40391,50
+Bodycare,Quality,positive,protection,0.05420721,40391,50
+Bodycare,Quality,positive,scent,0.053755334,40391,50
+Bodycare,Quality,positive,works,0.052938387,40391,50
+Bodycare,Quality,positive,used,0.052080554,40391,50
+Bodycare,Quality,positive,oily,0.049935425,40391,50
+Bodycare,Quality,positive,greasy,0.046766687,40391,50
+Bodycare,Quality,positive,smooth,0.042531281,40391,50
+Bodycare,Quality,positive,easy,0.042071846,40391,50
+Bodycare,Quality,positive,price,0.040598874,40391,50
+Bodycare,Quality,positive,little,0.036079751,40391,50
+Bodycare,Quality,positive,spf,0.035044434,40391,50
+Bodycare,Quality,positive,dry,0.034945586,40391,50
+Bodycare,Quality,positive,sensitive,0.03370808,40391,50
+Bodycare,Quality,positive,sunscreens,0.033297511,40391,50
+Bodycare,Quality,positive,effective,0.032389768,40391,50
+Bodycare,Quality,positive,light,0.030915855,40391,50
+Bodycare,Quality,positive,recommend,0.029331924,40391,50
+Bodycare,Quality,positive,burn,0.027583861,40391,50
+Bodycare,Quality,positive,long,0.026997723,40391,50
+Bodycare,Quality,positive,shave,0.026733993,40391,50
+Bodycare,Quality,positive,clean,0.026024789,40391,50
+Bodycare,Quality,positive,easily,0.025925948,40391,50
+Bodycare,Quality,positive,tried,0.024525608,40391,50
+Bodycare,Quality,positive,better,0.024285206,40391,50
+Bodycare,Quality,positive,most,0.024065843,40391,50
+Bodycare,Quality,positive,look,0.021914353,40391,50
+Bodycare,Quality,positive,kids,0.021279003,40391,50
+Bodycare,Quality,positive,aftershave,0.021214647,40391,50
+Bodycare,Quality,positive,pretty,0.021038567,40391,50
+Bodycare,Quality,positive,ingredients,0.020854148,40391,50
+Bodycare,Quality,positive,need,0.020838225,40391,50
+Bodycare,Quality,positive,rub,0.02070957,40391,50
+Bodycare,Quality,positive,sunblock,0.020613399,40391,50
+Bodycare,Quality,positive,work,0.020418821,40391,50
+Bodycare,Quality,positive,leaves,0.02039381,40391,50
+Bodycare,Quality,positive,lot,0.020174611,40391,50
+Bodycare,Quality,positive,found,0.019984239,40391,50
+Bodycare,Quality,positive,thick,0.019738709,40391,50
+Bodycare,Quality,positive,makeup,0.019668818,40391,50
+Bodycare,Quality,positive,definitely,0.019576208,40391,50
+Bodycare,Quality,positive,quickly,0.01825681,40391,50
+Bodycare,Quality,positive,cast,0.018117608,40391,50
+Bodycare,Quality,positive,hours,0.017865957,40391,50
+Bodycare,Quality,positive,zinc,0.017777503,40391,50
+Bodycare,Quality,positive,wear,0.017308781,40391,50
+Bodycare,Quality,positive,natural,0.01714814,40391,50
+Bodycare,Quality,positive,body,0.01611781,40391,50
+Bodycare,Quality,positive,mineral,0.014807974,40391,50
+Haircare,Packaging,negative,broken,0.070135489,8291,50
+Haircare,Packaging,negative,leaked,0.067515851,8291,50
+Haircare,Packaging,negative,used,0.056422929,8291,50
+Haircare,Packaging,negative,received,0.050161269,8291,50
+Haircare,Packaging,negative,small,0.047929631,8291,50
+Haircare,Packaging,negative,leaking,0.041387004,8291,50
+Haircare,Packaging,negative,pump,0.039546948,8291,50
+Haircare,Packaging,negative,thick,0.037805985,8291,50
+Haircare,Packaging,negative,smell,0.037645622,8291,50
+Haircare,Packaging,negative,expensive,0.034678823,8291,50
+Haircare,Packaging,negative,hard,0.031983479,8291,50
+Haircare,Packaging,negative,little,0.028318935,8291,50
+Haircare,Packaging,negative,work,0.027971624,8291,50
+Haircare,Packaging,negative,down,0.027969,8291,50
+Haircare,Packaging,negative,package,0.027570694,8291,50
+Haircare,Packaging,negative,horrible,0.027241977,8291,50
+Haircare,Packaging,negative,opened,0.026005358,8291,50
+Haircare,Packaging,negative,terrible,0.02566079,8291,50
+Haircare,Packaging,negative,return,0.025044078,8291,50
+Haircare,Packaging,negative,packaging,0.023731016,8291,50
+Haircare,Packaging,negative,different,0.023568677,8291,50
+Haircare,Packaging,negative,bag,0.023085584,8291,50
+Haircare,Packaging,negative,mess,0.02242848,8291,50
+Haircare,Packaging,negative,plastic,0.022318646,8291,50
+Haircare,Packaging,negative,inside,0.022006436,8291,50
+Haircare,Packaging,negative,open,0.021920527,8291,50
+Haircare,Packaging,negative,works,0.021817442,8291,50
+Haircare,Packaging,negative,price,0.021747952,8291,50
+Haircare,Packaging,negative,item,0.021654077,8291,50
+Haircare,Packaging,negative,waste,0.021378631,8291,50
+Haircare,Packaging,negative,order,0.021190174,8291,50
+Haircare,Packaging,negative,purchased,0.020694802,8291,50
+Haircare,Packaging,negative,empty,0.020112263,8291,50
+Haircare,Packaging,negative,fake,0.020098147,8291,50
+Haircare,Packaging,negative,awful,0.018996191,8291,50
+Haircare,Packaging,negative,size,0.018808442,8291,50
+Haircare,Packaging,negative,spilled,0.018335534,8291,50
+Haircare,Packaging,negative,wrong,0.018257381,8291,50
+Haircare,Packaging,negative,tried,0.018241267,8291,50
+Haircare,Packaging,negative,purple,0.017958925,8291,50
+Haircare,Packaging,negative,scent,0.017905081,8291,50
+Haircare,Packaging,negative,squeeze,0.017807505,8291,50
+Haircare,Packaging,negative,should,0.017527269,8291,50
+Haircare,Packaging,negative,difficult,0.016741971,8291,50
+Haircare,Packaging,negative,purchase,0.016514204,8291,50
+Haircare,Packaging,negative,disappointing,0.015603395,8291,50
+Haircare,Packaging,negative,nothing,0.015455839,8291,50
+Haircare,Packaging,negative,everywhere,0.015430588,8291,50
+Haircare,Packaging,negative,long,0.014553576,8291,50
+Haircare,Packaging,negative,shipping,0.013730709,8291,50
+Haircare,Packaging,positive,used,0.06666118,33710,50
+Haircare,Packaging,positive,works,0.055679826,33710,50
+Haircare,Packaging,positive,smell,0.051650192,33710,50
+Haircare,Packaging,positive,colored,0.04120168,33710,50
+Haircare,Packaging,positive,scent,0.040451035,33710,50
+Haircare,Packaging,positive,leaked,0.038932743,33710,50
+Haircare,Packaging,positive,better,0.038504715,33710,50
+Haircare,Packaging,positive,price,0.037708642,33710,50
+Haircare,Packaging,positive,treated,0.037171333,33710,50
+Haircare,Packaging,positive,amazing,0.034798461,33710,50
+Haircare,Packaging,positive,long,0.034334084,33710,50
+Haircare,Packaging,positive,pump,0.031080707,33710,50
+Haircare,Packaging,positive,blonde,0.030573916,33710,50
+Haircare,Packaging,positive,little,0.029441527,33710,50
+Haircare,Packaging,positive,purple,0.028920686,33710,50
+Haircare,Packaging,positive,top,0.028271323,33710,50
+Haircare,Packaging,positive,recommend,0.02784831,33710,50
+Haircare,Packaging,positive,tried,0.026956662,33710,50
+Haircare,Packaging,positive,received,0.026276428,33710,50
+Haircare,Packaging,positive,plastic,0.025934647,33710,50
+Haircare,Packaging,positive,need,0.025453498,33710,50
+Haircare,Packaging,positive,keep,0.024986712,33710,50
+Haircare,Packaging,positive,last,0.024746935,33710,50
+Haircare,Packaging,positive,natural,0.024685336,33710,50
+Haircare,Packaging,positive,size,0.0243554,33710,50
+Haircare,Packaging,positive,work,0.024231549,33710,50
+Haircare,Packaging,positive,lot,0.02283976,33710,50
+Haircare,Packaging,positive,definitely,0.022779732,33710,50
+Haircare,Packaging,positive,down,0.022715102,33710,50
+Haircare,Packaging,positive,wash,0.022004753,33710,50
+Haircare,Packaging,positive,happy,0.021616939,33710,50
+Haircare,Packaging,positive,longer,0.021349324,33710,50
+Haircare,Packaging,positive,different,0.020129628,33710,50
+Haircare,Packaging,positive,found,0.019860958,33710,50
+Haircare,Packaging,positive,packaging,0.019857788,33710,50
+Haircare,Packaging,positive,salon,0.019694101,33710,50
+Haircare,Packaging,positive,shower,0.019431409,33710,50
+Haircare,Packaging,positive,light,0.019397944,33710,50
+Haircare,Packaging,positive,small,0.019296624,33710,50
+Haircare,Packaging,positive,shampoos,0.019103487,33710,50
+Haircare,Packaging,positive,look,0.019014587,33710,50
+Haircare,Packaging,positive,thick,0.018479093,33710,50
+Haircare,Packaging,positive,free,0.01819628,33710,50
+Haircare,Packaging,positive,purchased,0.018138438,33710,50
+Haircare,Packaging,positive,worth,0.018063139,33710,50
+Haircare,Packaging,positive,once,0.017494113,33710,50
+Haircare,Packaging,positive,scalp,0.017432214,33710,50
+Haircare,Packaging,positive,most,0.017229549,33710,50
+Haircare,Packaging,positive,week,0.016785763,33710,50
+Haircare,Packaging,positive,her,0.014923413,33710,50
+Haircare,Packing,negative,damaged,0.148474309,1354,50
+Haircare,Packing,negative,broken,0.097600826,1354,50
+Haircare,Packing,negative,opened,0.059945958,1354,50
+Haircare,Packing,negative,spilled,0.059321355,1354,50
+Haircare,Packing,negative,sealed,0.054618218,1354,50
+Haircare,Packing,negative,used,0.052868163,1354,50
+Haircare,Packing,negative,received,0.046498571,1354,50
+Haircare,Packing,negative,inside,0.038439503,1354,50
+Haircare,Packing,negative,open,0.036621182,1354,50
+Haircare,Packing,negative,delivery,0.035502537,1354,50
+Haircare,Packing,negative,plastic,0.03504674,1354,50
+Haircare,Packing,negative,smell,0.034921378,1354,50
+Haircare,Packing,negative,item,0.034042107,1354,50
+Haircare,Packing,negative,package,0.03296757,1354,50
+Haircare,Packing,negative,pump,0.030687613,1354,50
+Haircare,Packing,negative,empty,0.027311132,1354,50
+Haircare,Packing,negative,missing,0.026998374,1354,50
+Haircare,Packing,negative,items,0.026909995,1354,50
+Haircare,Packing,negative,mess,0.026516307,1354,50
+Haircare,Packing,negative,wrapped,0.026404516,1354,50
+Haircare,Packing,negative,packaging,0.026201223,1354,50
+Haircare,Packing,negative,container,0.025491488,1354,50
+Haircare,Packing,negative,bag,0.025432386,1354,50
+Haircare,Packing,negative,happy,0.024569316,1354,50
+Haircare,Packing,negative,return,0.023124259,1354,50
+Haircare,Packing,negative,terrible,0.022165701,1354,50
+Haircare,Packing,negative,awful,0.021912794,1354,50
+Haircare,Packing,negative,expensive,0.02154559,1354,50
+Haircare,Packing,negative,unsealed,0.021237643,1354,50
+Haircare,Packing,negative,tape,0.021087492,1354,50
+Haircare,Packing,negative,disappointing,0.020752211,1354,50
+Haircare,Packing,negative,shipping,0.020685061,1354,50
+Haircare,Packing,negative,down,0.020680565,1354,50
+Haircare,Packing,negative,little,0.02047191,1354,50
+Haircare,Packing,negative,horrible,0.020405212,1354,50
+Haircare,Packing,negative,fake,0.019925839,1354,50
+Haircare,Packing,negative,order,0.019320368,1354,50
+Haircare,Packing,negative,waste,0.019137148,1354,50
+Haircare,Packing,negative,work,0.018129421,1354,50
+Haircare,Packing,negative,everywhere,0.016834114,1354,50
+Haircare,Packing,negative,tried,0.01636203,1354,50
+Haircare,Packing,negative,leaked,0.01539255,1354,50
+Haircare,Packing,negative,reviews,0.014898149,1354,50
+Haircare,Packing,negative,delivered,0.014790205,1354,50
+Haircare,Packing,negative,unfortunately,0.014445678,1354,50
+Haircare,Packing,negative,scent,0.01381845,1354,50
+Haircare,Packing,negative,wrap,0.013284346,1354,50
+Haircare,Packing,negative,purchase,0.012851606,1354,50
+Haircare,Packing,negative,purchased,0.012571571,1354,50
+Haircare,Packing,negative,bar,0.011149324,1354,50
+Haircare,Packing,positive,damaged,0.174301395,5591,50
+Haircare,Packing,positive,delivery,0.133921792,5591,50
+Haircare,Packing,positive,fast,0.068008568,5591,50
+Haircare,Packing,positive,used,0.053027759,5591,50
+Haircare,Packing,positive,works,0.049629959,5591,50
+Haircare,Packing,positive,smell,0.042549056,5591,50
+Haircare,Packing,positive,sealed,0.041981437,5591,50
+Haircare,Packing,positive,price,0.040640396,5591,50
+Haircare,Packing,positive,amazing,0.03723575,5591,50
+Haircare,Packing,positive,quick,0.033928715,5591,50
+Haircare,Packing,positive,top,0.033910597,5591,50
+Haircare,Packing,positive,better,0.031374777,5591,50
+Haircare,Packing,positive,recommend,0.029439771,5591,50
+Haircare,Packing,positive,wrapped,0.028833913,5591,50
+Haircare,Packing,positive,scent,0.028497438,5591,50
+Haircare,Packing,positive,received,0.02765358,5591,50
+Haircare,Packing,positive,plastic,0.026393031,5591,50
+Haircare,Packing,positive,packaging,0.025243898,5591,50
+Haircare,Packing,positive,protection,0.024880056,5591,50
+Haircare,Packing,positive,order,0.024726277,5591,50
+Haircare,Packing,positive,opened,0.023957753,5591,50
+Haircare,Packing,positive,spilled,0.023223694,5591,50
+Haircare,Packing,positive,package,0.022209724,5591,50
+Haircare,Packing,positive,happy,0.022177831,5591,50
+Haircare,Packing,positive,item,0.020722571,5591,50
+Haircare,Packing,positive,definitely,0.020618244,5591,50
+Haircare,Packing,positive,long,0.020514208,5591,50
+Haircare,Packing,positive,perfect,0.020337078,5591,50
+Haircare,Packing,positive,inside,0.020244646,5591,50
+Haircare,Packing,positive,tried,0.020233745,5591,50
+Haircare,Packing,positive,shipping,0.020224095,5591,50
+Haircare,Packing,positive,bag,0.019530206,5591,50
+Haircare,Packing,positive,open,0.01936292,5591,50
+Haircare,Packing,positive,little,0.018433544,5591,50
+Haircare,Packing,positive,tape,0.017720557,5591,50
+Haircare,Packing,positive,need,0.01760668,5591,50
+Haircare,Packing,positive,purchase,0.017191453,5591,50
+Haircare,Packing,positive,work,0.017122776,5591,50
+Haircare,Packing,positive,down,0.01706838,5591,50
+Haircare,Packing,positive,super,0.016553045,5591,50
+Haircare,Packing,positive,thank,0.01599773,5591,50
+Haircare,Packing,positive,lot,0.015539339,5591,50
+Haircare,Packing,positive,pump,0.015478264,5591,50
+Haircare,Packing,positive,oil,0.015404064,5591,50
+Haircare,Packing,positive,packaged,0.015139314,5591,50
+Haircare,Packing,positive,worth,0.015047461,5591,50
+Haircare,Packing,positive,natural,0.014907285,5591,50
+Haircare,Packing,positive,seller,0.014736252,5591,50
+Haircare,Packing,positive,wrap,0.013460995,5591,50
+Haircare,Packing,positive,bar,0.012664874,5591,50
+Haircare,Quality,negative,dry,0.112823899,17330,50
+Haircare,Quality,negative,smell,0.06925682,17330,50
+Haircare,Quality,negative,used,0.064498254,17330,50
+Haircare,Quality,negative,scalp,0.048885327,17330,50
+Haircare,Quality,negative,soft,0.03941111,17330,50
+Haircare,Quality,negative,oily,0.038750402,17330,50
+Haircare,Quality,negative,thick,0.037739181,17330,50
+Haircare,Quality,negative,leaves,0.035844737,17330,50
+Haircare,Quality,negative,work,0.034301329,17330,50
+Haircare,Quality,negative,horrible,0.034264273,17330,50
+Haircare,Quality,negative,terrible,0.032439611,17330,50
+Haircare,Quality,negative,hard,0.03231385,17330,50
+Haircare,Quality,negative,little,0.030349012,17330,50
+Haircare,Quality,negative,awful,0.029741293,17330,50
+Haircare,Quality,negative,tried,0.029544563,17330,50
+Haircare,Quality,negative,scent,0.029512961,17330,50
+Haircare,Quality,negative,recommend,0.028658535,17330,50
+Haircare,Quality,negative,dandruff,0.02805371,17330,50
+Haircare,Quality,negative,dried,0.027622138,17330,50
+Haircare,Quality,negative,drying,0.026828633,17330,50
+Haircare,Quality,negative,wash,0.026749018,17330,50
+Haircare,Quality,negative,works,0.026200056,17330,50
+Haircare,Quality,negative,worst,0.02546451,17330,50
+Haircare,Quality,negative,expensive,0.025205044,17330,50
+Haircare,Quality,negative,down,0.024519522,17330,50
+Haircare,Quality,negative,greasy,0.023491994,17330,50
+Haircare,Quality,negative,clean,0.02240223,17330,50
+Haircare,Quality,negative,long,0.022299064,17330,50
+Haircare,Quality,negative,thin,0.022054057,17330,50
+Haircare,Quality,negative,waste,0.022022903,17330,50
+Haircare,Quality,negative,nothing,0.021881411,17330,50
+Haircare,Quality,negative,help,0.021302611,17330,50
+Haircare,Quality,negative,curly,0.020971098,17330,50
+Haircare,Quality,negative,lot,0.02082033,17330,50
+Haircare,Quality,negative,few,0.020477295,17330,50
+Haircare,Quality,negative,frizzy,0.02036753,17330,50
+Haircare,Quality,negative,reviews,0.020247379,17330,50
+Haircare,Quality,negative,worse,0.019746444,17330,50
+Haircare,Quality,negative,less,0.019361579,17330,50
+Haircare,Quality,negative,return,0.018760452,17330,50
+Haircare,Quality,negative,away,0.01839157,17330,50
+Haircare,Quality,negative,look,0.017353137,17330,50
+Haircare,Quality,negative,give,0.01706917,17330,50
+Haircare,Quality,negative,comb,0.016482578,17330,50
+Haircare,Quality,negative,thought,0.016335296,17330,50
+Haircare,Quality,negative,head,0.015831461,17330,50
+Haircare,Quality,negative,times,0.015625413,17330,50
+Haircare,Quality,negative,shower,0.015529866,17330,50
+Haircare,Quality,negative,shampoos,0.015325845,17330,50
+Haircare,Quality,negative,her,0.01342285,17330,50
+Haircare,Quality,positive,soft,0.109617209,284963,50
+Haircare,Quality,positive,dry,0.074454929,284963,50
+Haircare,Quality,positive,smell,0.064976596,284963,50
+Haircare,Quality,positive,clean,0.062042388,284963,50
+Haircare,Quality,positive,used,0.058596214,284963,50
+Haircare,Quality,positive,leaves,0.056984646,284963,50
+Haircare,Quality,positive,works,0.050425435,284963,50
+Haircare,Quality,positive,scent,0.050268446,284963,50
+Haircare,Quality,positive,scalp,0.042955162,284963,50
+Haircare,Quality,positive,shiny,0.038024874,284963,50
+Haircare,Quality,positive,price,0.035581222,284963,50
+Haircare,Quality,positive,smooth,0.035484052,284963,50
+Haircare,Quality,positive,amazing,0.034946419,284963,50
+Haircare,Quality,positive,long,0.033571643,284963,50
+Haircare,Quality,positive,recommend,0.033569043,284963,50
+Haircare,Quality,positive,excellent,0.032565888,284963,50
+Haircare,Quality,positive,healthy,0.031180668,284963,50
+Haircare,Quality,positive,tried,0.029847196,284963,50
+Haircare,Quality,positive,little,0.029294162,284963,50
+Haircare,Quality,positive,better,0.0287131,284963,50
+Haircare,Quality,positive,curly,0.028153241,284963,50
+Haircare,Quality,positive,natural,0.027279114,284963,50
+Haircare,Quality,positive,oily,0.0269429,284963,50
+Haircare,Quality,positive,wash,0.026119986,284963,50
+Haircare,Quality,positive,definitely,0.025501524,284963,50
+Haircare,Quality,positive,super,0.025395458,284963,50
+Haircare,Quality,positive,lot,0.023858779,284963,50
+Haircare,Quality,positive,shampoos,0.02377615,284963,50
+Haircare,Quality,positive,down,0.02363221,284963,50
+Haircare,Quality,positive,need,0.023186103,284963,50
+Haircare,Quality,positive,thick,0.022789619,284963,50
+Haircare,Quality,positive,silky,0.022064138,284963,50
+Haircare,Quality,positive,work,0.021759424,284963,50
+Haircare,Quality,positive,found,0.020075245,284963,50
+Haircare,Quality,positive,easy,0.020063587,284963,50
+Haircare,Quality,positive,light,0.019656094,284963,50
+Haircare,Quality,positive,look,0.019640793,284963,50
+Haircare,Quality,positive,free,0.019320808,284963,50
+Haircare,Quality,positive,oil,0.018893657,284963,50
+Haircare,Quality,positive,curls,0.018754007,284963,50
+Haircare,Quality,positive,keep,0.018501424,284963,50
+Haircare,Quality,positive,looks,0.017783269,284963,50
+Haircare,Quality,positive,greasy,0.017622839,284963,50
+Haircare,Quality,positive,shower,0.017322899,284963,50
+Haircare,Quality,positive,her,0.017271201,284963,50
+Haircare,Quality,positive,frizzy,0.017001851,284963,50
+Haircare,Quality,positive,once,0.01614391,284963,50
+Haircare,Quality,positive,bar,0.015707332,284963,50
+Haircare,Quality,positive,few,0.015429723,284963,50
+Haircare,Quality,positive,week,0.015416868,284963,50
+Makeup,Packaging,negative,colors,0.12130703,13358,50
+Makeup,Packaging,negative,lipstick,0.053265137,13358,50
+Makeup,Packaging,negative,broken,0.04801937,13358,50
+Makeup,Packaging,negative,dark,0.042475916,13358,50
+Makeup,Packaging,negative,hard,0.039660392,13358,50
+Makeup,Packaging,negative,little,0.038342123,13358,50
+Makeup,Packaging,negative,wrong,0.036201481,13358,50
+Makeup,Packaging,negative,lips,0.035873543,13358,50
+Makeup,Packaging,negative,horrible,0.032897078,13358,50
+Makeup,Packaging,negative,used,0.032550929,13358,50
+Makeup,Packaging,negative,terrible,0.030596805,13358,50
+Makeup,Packaging,negative,waste,0.029731244,13358,50
+Makeup,Packaging,negative,look,0.028349054,13358,50
+Makeup,Packaging,negative,looks,0.028009654,13358,50
+Makeup,Packaging,negative,black,0.027752639,13358,50
+Makeup,Packaging,negative,received,0.027182527,13358,50
+Makeup,Packaging,negative,picture,0.026776201,13358,50
+Makeup,Packaging,negative,awful,0.026230724,13358,50
+Makeup,Packaging,negative,dried,0.02554014,13358,50
+Makeup,Packaging,negative,pink,0.024994225,13358,50
+Makeup,Packaging,negative,eye,0.024647305,13358,50
+Makeup,Packaging,negative,lip,0.024496521,13358,50
+Makeup,Packaging,negative,return,0.024355779,13358,50
+Makeup,Packaging,negative,mascara,0.022032408,13358,50
+Makeup,Packaging,negative,nothing,0.021895103,13358,50
+Makeup,Packaging,negative,stay,0.021805109,13358,50
+Makeup,Packaging,negative,different,0.021281395,13358,50
+Makeup,Packaging,negative,pretty,0.019826949,13358,50
+Makeup,Packaging,negative,tried,0.01981669,13358,50
+Makeup,Packaging,negative,long,0.019566314,13358,50
+Makeup,Packaging,negative,brown,0.019424117,13358,50
+Makeup,Packaging,negative,eyeliner,0.01935728,13358,50
+Makeup,Packaging,negative,disappointing,0.019135939,13358,50
+Makeup,Packaging,negative,expected,0.019050712,13358,50
+Makeup,Packaging,negative,last,0.0185109,13358,50
+Makeup,Packaging,negative,base,0.018364414,13358,50
+Makeup,Packaging,negative,brush,0.018296208,13358,50
+Makeup,Packaging,negative,small,0.017853168,13358,50
+Makeup,Packaging,negative,work,0.016914222,13358,50
+Makeup,Packaging,negative,thought,0.016846908,13358,50
+Makeup,Packaging,negative,darker,0.016618586,13358,50
+Makeup,Packaging,negative,recommend,0.016603748,13358,50
+Makeup,Packaging,negative,eyeshadow,0.016215329,13358,50
+Makeup,Packaging,negative,wear,0.016087187,13358,50
+Makeup,Packaging,negative,opened,0.016004559,13358,50
+Makeup,Packaging,negative,lashes,0.015804816,13358,50
+Makeup,Packaging,negative,tube,0.015528786,13358,50
+Makeup,Packaging,negative,shadow,0.015471695,13358,50
+Makeup,Packaging,negative,few,0.01500302,13358,50
+Makeup,Packaging,negative,makeup,0.014888468,13358,50
+Makeup,Packaging,positive,colors,0.160054331,145121,50
+Makeup,Packaging,positive,beautiful,0.066553433,145121,50
+Makeup,Packaging,positive,lipstick,0.061289196,145121,50
+Makeup,Packaging,positive,perfect,0.047473335,145121,50
+Makeup,Packaging,positive,pretty,0.042541318,145121,50
+Makeup,Packaging,positive,easy,0.041611191,145121,50
+Makeup,Packaging,positive,long,0.040012457,145121,50
+Makeup,Packaging,positive,stays,0.035688945,145121,50
+Makeup,Packaging,positive,price,0.033038841,145121,50
+Makeup,Packaging,positive,lip,0.032992983,145121,50
+Makeup,Packaging,positive,lips,0.03224928,145121,50
+Makeup,Packaging,positive,look,0.031859236,145121,50
+Makeup,Packaging,positive,eye,0.029148595,145121,50
+Makeup,Packaging,positive,used,0.026784387,145121,50
+Makeup,Packaging,positive,looks,0.026681041,145121,50
+Makeup,Packaging,positive,palette,0.026561235,145121,50
+Makeup,Packaging,positive,little,0.026468106,145121,50
+Makeup,Packaging,positive,last,0.026440021,145121,50
+Makeup,Packaging,positive,favorite,0.026238703,145121,50
+Makeup,Packaging,positive,wear,0.025402438,145121,50
+Makeup,Packaging,positive,light,0.025392176,145121,50
+Makeup,Packaging,positive,lasts,0.02362277,145121,50
+Makeup,Packaging,positive,makeup,0.022646865,145121,50
+Makeup,Packaging,positive,eyeshadow,0.022294238,145121,50
+Makeup,Packaging,positive,amazing,0.021888466,145121,50
+Makeup,Packaging,positive,definitely,0.021569109,145121,50
+Makeup,Packaging,positive,recommend,0.02139752,145121,50
+Makeup,Packaging,positive,eyeliner,0.021293831,145121,50
+Makeup,Packaging,positive,matte,0.021271863,145121,50
+Makeup,Packaging,positive,pigmented,0.021047537,145121,50
+Makeup,Packaging,positive,loved,0.020201681,145121,50
+Makeup,Packaging,positive,easily,0.020184239,145121,50
+Makeup,Packaging,positive,happy,0.019315358,145121,50
+Makeup,Packaging,positive,stay,0.019165062,145121,50
+Makeup,Packaging,positive,bright,0.019158032,145121,50
+Makeup,Packaging,positive,shadow,0.0184639,145121,50
+Makeup,Packaging,positive,mascara,0.018426499,145121,50
+Makeup,Packaging,positive,lasting,0.018087907,145121,50
+Makeup,Packaging,positive,dark,0.017982031,145121,50
+Makeup,Packaging,positive,pink,0.017923225,145121,50
+Makeup,Packaging,positive,better,0.017530706,145121,50
+Makeup,Packaging,positive,natural,0.017288092,145121,50
+Makeup,Packaging,positive,different,0.017210568,145121,50
+Makeup,Packaging,positive,super,0.017166803,145121,50
+Makeup,Packaging,positive,shade,0.016731103,145121,50
+Makeup,Packaging,positive,brown,0.016214495,145121,50
+Makeup,Packaging,positive,red,0.015372136,145121,50
+Makeup,Packaging,positive,brush,0.014998313,145121,50
+Makeup,Packaging,positive,work,0.014948901,145121,50
+Makeup,Packaging,positive,lashes,0.014286809,145121,50
+Makeup,Packing,negative,broken,0.132168219,2463,50
+Makeup,Packing,negative,damaged,0.111109964,2463,50
+Makeup,Packing,negative,used,0.079815043,2463,50
+Makeup,Packing,negative,opened,0.066632283,2463,50
+Makeup,Packing,negative,sealed,0.064035832,2463,50
+Makeup,Packing,negative,received,0.0582621,2463,50
+Makeup,Packing,negative,item,0.0556454,2463,50
+Makeup,Packing,negative,mascara,0.053550124,2463,50
+Makeup,Packing,negative,return,0.047875637,2463,50
+Makeup,Packing,negative,lipstick,0.047740417,2463,50
+Makeup,Packing,negative,dried,0.046836353,2463,50
+Makeup,Packing,negative,package,0.041444909,2463,50
+Makeup,Packing,negative,tube,0.034340227,2463,50
+Makeup,Packing,negative,eye,0.032427279,2463,50
+Makeup,Packing,negative,open,0.030224519,2463,50
+Makeup,Packing,negative,completely,0.029309238,2463,50
+Makeup,Packing,negative,eyeshadow,0.02829774,2463,50
+Makeup,Packing,negative,packaging,0.028094457,2463,50
+Makeup,Packing,negative,delivery,0.02774249,2463,50
+Makeup,Packing,negative,waste,0.027504012,2463,50
+Makeup,Packing,negative,empty,0.025644724,2463,50
+Makeup,Packing,negative,plastic,0.024829439,2463,50
+Makeup,Packing,negative,inside,0.024370369,2463,50
+Makeup,Packing,negative,lashes,0.023798094,2463,50
+Makeup,Packing,negative,looks,0.023475795,2463,50
+Makeup,Packing,negative,tried,0.021784949,2463,50
+Makeup,Packing,negative,makeup,0.021352818,2463,50
+Makeup,Packing,negative,unsealed,0.021063262,2463,50
+Makeup,Packing,negative,eyeliner,0.020817896,2463,50
+Makeup,Packing,negative,away,0.020116876,2463,50
+Makeup,Packing,negative,little,0.019934851,2463,50
+Makeup,Packing,negative,wrapped,0.019926838,2463,50
+Makeup,Packing,negative,disappointing,0.019910921,2463,50
+Makeup,Packing,negative,missing,0.019611147,2463,50
+Makeup,Packing,negative,shadow,0.019419784,2463,50
+Makeup,Packing,negative,safety,0.018417235,2463,50
+Makeup,Packing,negative,returned,0.018308234,2463,50
+Makeup,Packing,negative,order,0.018101943,2463,50
+Makeup,Packing,negative,wrap,0.018073356,2463,50
+Makeup,Packing,negative,brush,0.018045126,2463,50
+Makeup,Packing,negative,bubble,0.017743544,2463,50
+Makeup,Packing,negative,purchase,0.01754033,2463,50
+Makeup,Packing,negative,refund,0.017496337,2463,50
+Makeup,Packing,negative,small,0.017336876,2463,50
+Makeup,Packing,negative,items,0.017010155,2463,50
+Makeup,Packing,negative,tape,0.016909638,2463,50
+Makeup,Packing,negative,horrible,0.016841004,2463,50
+Makeup,Packing,negative,unfortunately,0.016651342,2463,50
+Makeup,Packing,negative,powder,0.016518513,2463,50
+Makeup,Packing,negative,someone,0.01551895,2463,50
+Makeup,Packing,positive,delivery,0.125200704,6675,50
+Makeup,Packing,positive,mascara,0.079547801,6675,50
+Makeup,Packing,positive,fast,0.071742978,6675,50
+Makeup,Packing,positive,lashes,0.059371529,6675,50
+Makeup,Packing,positive,damaged,0.056648403,6675,50
+Makeup,Packing,positive,used,0.053432744,6675,50
+Makeup,Packing,positive,sealed,0.049092189,6675,50
+Makeup,Packing,positive,lipstick,0.043231688,6675,50
+Makeup,Packing,positive,easy,0.042013281,6675,50
+Makeup,Packing,positive,price,0.041140893,6675,50
+Makeup,Packing,positive,eyeliner,0.0386737,6675,50
+Makeup,Packing,positive,received,0.037476886,6675,50
+Makeup,Packing,positive,quick,0.03562775,6675,50
+Makeup,Packing,positive,perfect,0.035514477,6675,50
+Makeup,Packing,positive,eye,0.035142982,6675,50
+Makeup,Packing,positive,look,0.033426895,6675,50
+Makeup,Packing,positive,packaging,0.033102753,6675,50
+Makeup,Packing,positive,wrapped,0.032998459,6675,50
+Makeup,Packing,positive,happy,0.031403476,6675,50
+Makeup,Packing,positive,opened,0.030278918,6675,50
+Makeup,Packing,positive,little,0.029903324,6675,50
+Makeup,Packing,positive,makeup,0.029808066,6675,50
+Makeup,Packing,positive,long,0.028822943,6675,50
+Makeup,Packing,positive,item,0.028576778,6675,50
+Makeup,Packing,positive,package,0.027470967,6675,50
+Makeup,Packing,positive,better,0.027243506,6675,50
+Makeup,Packing,positive,tried,0.027034767,6675,50
+Makeup,Packing,positive,works,0.026672033,6675,50
+Makeup,Packing,positive,super,0.026367362,6675,50
+Makeup,Packing,positive,order,0.025459859,6675,50
+Makeup,Packing,positive,recommend,0.025087751,6675,50
+Makeup,Packing,positive,purchase,0.025026918,6675,50
+Makeup,Packing,positive,amazing,0.024979409,6675,50
+Makeup,Packing,positive,tube,0.023907822,6675,50
+Makeup,Packing,positive,pretty,0.02375584,6675,50
+Makeup,Packing,positive,definitely,0.02305239,6675,50
+Makeup,Packing,positive,bubble,0.022891016,6675,50
+Makeup,Packing,positive,liner,0.022581128,6675,50
+Makeup,Packing,positive,beautiful,0.022473118,6675,50
+Makeup,Packing,positive,brush,0.021947228,6675,50
+Makeup,Packing,positive,palette,0.021776279,6675,50
+Makeup,Packing,positive,looks,0.021704801,6675,50
+Makeup,Packing,positive,eyeshadow,0.021537555,6675,50
+Makeup,Packing,positive,wrap,0.021292442,6675,50
+Makeup,Packing,positive,lash,0.020901345,6675,50
+Makeup,Packing,positive,plastic,0.020033181,6675,50
+Makeup,Packing,positive,work,0.0192452,6675,50
+Makeup,Packing,positive,colors,0.019075942,6675,50
+Makeup,Packing,positive,shadow,0.018581279,6675,50
+Makeup,Packing,positive,eyelashes,0.018453604,6675,50
+Makeup,Quality,negative,dry,0.120703881,20479,50
+Makeup,Quality,negative,mascara,0.07515731,20479,50
+Makeup,Quality,negative,quality,0.046653927,20479,50
+Makeup,Quality,negative,lashes,0.045353597,20479,50
+Makeup,Quality,negative,lips,0.041321953,20479,50
+Makeup,Quality,negative,hard,0.041209971,20479,50
+Makeup,Quality,negative,used,0.039547334,20479,50
+Makeup,Quality,negative,poor,0.038191554,20479,50
+Makeup,Quality,negative,eye,0.038097478,20479,50
+Makeup,Quality,negative,eyeliner,0.037412863,20479,50
+Makeup,Quality,negative,lipstick,0.03389818,20479,50
+Makeup,Quality,negative,little,0.033172431,20479,50
+Makeup,Quality,negative,waste,0.032586654,20479,50
+Makeup,Quality,negative,look,0.029589027,20479,50
+Makeup,Quality,negative,tried,0.028210839,20479,50
+Makeup,Quality,negative,brush,0.028050624,20479,50
+Makeup,Quality,negative,horrible,0.027705437,20479,50
+Makeup,Quality,negative,terrible,0.026486412,20479,50
+Makeup,Quality,negative,work,0.025549169,20479,50
+Makeup,Quality,negative,colors,0.024988216,20479,50
+Makeup,Quality,negative,dried,0.024042117,20479,50
+Makeup,Quality,negative,clumpy,0.023405133,20479,50
+Makeup,Quality,negative,recommend,0.023253815,20479,50
+Makeup,Quality,negative,return,0.022348552,20479,50
+Makeup,Quality,negative,worst,0.021889048,20479,50
+Makeup,Quality,negative,long,0.021313376,20479,50
+Makeup,Quality,negative,black,0.020974612,20479,50
+Makeup,Quality,negative,awful,0.02094014,20479,50
+Makeup,Quality,negative,badly,0.020651611,20479,50
+Makeup,Quality,negative,liner,0.020490477,20479,50
+Makeup,Quality,negative,old,0.020299587,20479,50
+Makeup,Quality,negative,makeup,0.020094294,20479,50
+Makeup,Quality,negative,reviews,0.020010536,20479,50
+Makeup,Quality,negative,few,0.019716729,20479,50
+Makeup,Quality,negative,tube,0.019693778,20479,50
+Makeup,Quality,negative,smooth,0.019659114,20479,50
+Makeup,Quality,negative,looks,0.01952458,20479,50
+Makeup,Quality,negative,thick,0.018573509,20479,50
+Makeup,Quality,negative,difficult,0.018566349,20479,50
+Makeup,Quality,negative,received,0.018370066,20479,50
+Makeup,Quality,negative,eyelashes,0.018319747,20479,50
+Makeup,Quality,negative,last,0.018258517,20479,50
+Makeup,Quality,negative,stay,0.01775318,20479,50
+Makeup,Quality,negative,clumps,0.01677986,20479,50
+Makeup,Quality,negative,away,0.01667372,20479,50
+Makeup,Quality,negative,nothing,0.016127955,20479,50
+Makeup,Quality,negative,purchase,0.015844006,20479,50
+Makeup,Quality,negative,maybe,0.015211829,20479,50
+Makeup,Quality,negative,waterproof,0.01505806,20479,50
+Makeup,Quality,negative,line,0.014224331,20479,50
+Makeup,Quality,positive,mascara,0.078042532,214506,50
+Makeup,Quality,positive,smooth,0.070635122,214506,50
+Makeup,Quality,positive,lashes,0.056678146,214506,50
+Makeup,Quality,positive,colors,0.055381903,214506,50
+Makeup,Quality,positive,easy,0.054182329,214506,50
+Makeup,Quality,positive,price,0.051953981,214506,50
+Makeup,Quality,positive,dry,0.050725988,214506,50
+Makeup,Quality,positive,eyeliner,0.049728042,214506,50
+Makeup,Quality,positive,lipstick,0.047137817,214506,50
+Makeup,Quality,positive,look,0.045703603,214506,50
+Makeup,Quality,positive,lips,0.042813295,214506,50
+Makeup,Quality,positive,long,0.042532083,214506,50
+Makeup,Quality,positive,eye,0.039734749,214506,50
+Makeup,Quality,positive,used,0.037531318,214506,50
+Makeup,Quality,positive,smoothly,0.036621134,214506,50
+Makeup,Quality,positive,pretty,0.036180158,214506,50
+Makeup,Quality,positive,stays,0.036004779,214506,50
+Makeup,Quality,positive,looks,0.034154001,214506,50
+Makeup,Quality,positive,little,0.033441091,214506,50
+Makeup,Quality,positive,excellent,0.03327186,214506,50
+Makeup,Quality,positive,makeup,0.031529306,214506,50
+Makeup,Quality,positive,quality,0.031229833,214506,50
+Makeup,Quality,positive,soft,0.030394912,214506,50
+Makeup,Quality,positive,perfect,0.027751572,214506,50
+Makeup,Quality,positive,liner,0.027648756,214506,50
+Makeup,Quality,positive,works,0.027468745,214506,50
+Makeup,Quality,positive,easily,0.027130547,214506,50
+Makeup,Quality,positive,recommend,0.027110943,214506,50
+Makeup,Quality,positive,brush,0.026914004,214506,50
+Makeup,Quality,positive,lip,0.02673601,214506,50
+Makeup,Quality,positive,definitely,0.02628326,214506,50
+Makeup,Quality,positive,lasts,0.026193728,214506,50
+Makeup,Quality,positive,tried,0.026066302,214506,50
+Makeup,Quality,positive,last,0.02565259,214506,50
+Makeup,Quality,positive,better,0.025604478,214506,50
+Makeup,Quality,positive,beautiful,0.025039574,214506,50
+Makeup,Quality,positive,wear,0.024496929,214506,50
+Makeup,Quality,positive,super,0.022610467,214506,50
+Makeup,Quality,positive,matte,0.022015516,214506,50
+Makeup,Quality,positive,work,0.021581964,214506,50
+Makeup,Quality,positive,smudge,0.0209749,214506,50
+Makeup,Quality,positive,need,0.020043062,214506,50
+Makeup,Quality,positive,black,0.018517439,214506,50
+Makeup,Quality,positive,lot,0.018397831,214506,50
+Makeup,Quality,positive,light,0.018313308,214506,50
+Makeup,Quality,positive,natural,0.018206391,214506,50
+Makeup,Quality,positive,most,0.0175225,214506,50
+Makeup,Quality,positive,line,0.017072322,214506,50
+Makeup,Quality,positive,want,0.0169885,214506,50
+Makeup,Quality,positive,liquid,0.015704768,214506,50
+Skincare,Packaging,negative,broken,0.083352947,18959,50
+Skincare,Packaging,negative,leaked,0.055043565,18959,50
+Skincare,Packaging,negative,soap,0.054367869,18959,50
+Skincare,Packaging,negative,received,0.051085762,18959,50
+Skincare,Packaging,negative,pump,0.050944752,18959,50
+Skincare,Packaging,negative,used,0.049312733,18959,50
+Skincare,Packaging,negative,smell,0.045906121,18959,50
+Skincare,Packaging,negative,small,0.043561164,18959,50
+Skincare,Packaging,negative,leaking,0.039343259,18959,50
+Skincare,Packaging,negative,little,0.037069154,18959,50
+Skincare,Packaging,negative,oil,0.036499294,18959,50
+Skincare,Packaging,negative,return,0.031839437,18959,50
+Skincare,Packaging,negative,opened,0.03133411,18959,50
+Skincare,Packaging,negative,scent,0.031200709,18959,50
+Skincare,Packaging,negative,package,0.028556796,18959,50
+Skincare,Packaging,negative,empty,0.025946188,18959,50
+Skincare,Packaging,negative,packaging,0.02562285,18959,50
+Skincare,Packaging,negative,label,0.024820623,18959,50
+Skincare,Packaging,negative,work,0.024500157,18959,50
+Skincare,Packaging,negative,thick,0.023943492,18959,50
+Skincare,Packaging,negative,item,0.023697061,18959,50
+Skincare,Packaging,negative,open,0.023549157,18959,50
+Skincare,Packaging,negative,price,0.023209559,18959,50
+Skincare,Packaging,negative,hard,0.023139517,18959,50
+Skincare,Packaging,negative,terrible,0.022347192,18959,50
+Skincare,Packaging,negative,horrible,0.022208012,18959,50
+Skincare,Packaging,negative,plastic,0.021996693,18959,50
+Skincare,Packaging,negative,expensive,0.021438826,18959,50
+Skincare,Packaging,negative,waste,0.02038838,18959,50
+Skincare,Packaging,negative,inside,0.020246496,18959,50
+Skincare,Packaging,negative,different,0.02015479,18959,50
+Skincare,Packaging,negative,order,0.019617986,18959,50
+Skincare,Packaging,negative,purchased,0.019581688,18959,50
+Skincare,Packaging,negative,down,0.019275202,18959,50
+Skincare,Packaging,negative,wash,0.01895885,18959,50
+Skincare,Packaging,negative,mess,0.018730876,18959,50
+Skincare,Packaging,negative,body,0.018432117,18959,50
+Skincare,Packaging,negative,purchase,0.018007715,18959,50
+Skincare,Packaging,negative,disappointing,0.017585992,18959,50
+Skincare,Packaging,negative,bag,0.0171158,18959,50
+Skincare,Packaging,negative,awful,0.017111249,18959,50
+Skincare,Packaging,negative,should,0.017062914,18959,50
+Skincare,Packaging,negative,nothing,0.016558495,18959,50
+Skincare,Packaging,negative,fake,0.015790521,18959,50
+Skincare,Packaging,negative,few,0.015499664,18959,50
+Skincare,Packaging,negative,works,0.015342887,18959,50
+Skincare,Packaging,negative,wrong,0.015267314,18959,50
+Skincare,Packaging,negative,cream,0.015204362,18959,50
+Skincare,Packaging,negative,serum,0.014936756,18959,50
+Skincare,Packaging,negative,tried,0.014086332,18959,50
+Skincare,Packaging,positive,scent,0.069041155,91558,50
+Skincare,Packaging,positive,soap,0.062614661,91558,50
+Skincare,Packaging,positive,smell,0.059737054,91558,50
+Skincare,Packaging,positive,used,0.053310968,91558,50
+Skincare,Packaging,positive,oil,0.047058677,91558,50
+Skincare,Packaging,positive,pump,0.041072103,91558,50
+Skincare,Packaging,positive,price,0.039600984,91558,50
+Skincare,Packaging,positive,little,0.036451852,91558,50
+Skincare,Packaging,positive,works,0.036194393,91558,50
+Skincare,Packaging,positive,better,0.033350988,91558,50
+Skincare,Packaging,positive,body,0.032714047,91558,50
+Skincare,Packaging,positive,light,0.03051455,91558,50
+Skincare,Packaging,positive,lip,0.030190879,91558,50
+Skincare,Packaging,positive,moisturizing,0.029039094,91558,50
+Skincare,Packaging,positive,wash,0.028994763,91558,50
+Skincare,Packaging,positive,leaked,0.028886792,91558,50
+Skincare,Packaging,positive,amazing,0.028381977,91558,50
+Skincare,Packaging,positive,perfect,0.028336616,91558,50
+Skincare,Packaging,positive,serum,0.027993919,91558,50
+Skincare,Packaging,positive,long,0.02786918,91558,50
+Skincare,Packaging,positive,top,0.027339179,91558,50
+Skincare,Packaging,positive,received,0.026671396,91558,50
+Skincare,Packaging,positive,lips,0.025480025,91558,50
+Skincare,Packaging,positive,recommend,0.025239562,91558,50
+Skincare,Packaging,positive,size,0.024848448,91558,50
+Skincare,Packaging,positive,definitely,0.024751871,91558,50
+Skincare,Packaging,positive,last,0.024650675,91558,50
+Skincare,Packaging,positive,packaging,0.024514463,91558,50
+Skincare,Packaging,positive,moisturizer,0.024460326,91558,50
+Skincare,Packaging,positive,work,0.023277981,91558,50
+Skincare,Packaging,positive,second,0.023174913,91558,50
+Skincare,Packaging,positive,easy,0.022727046,91558,50
+Skincare,Packaging,positive,order,0.022702314,91558,50
+Skincare,Packaging,positive,happy,0.022622974,91558,50
+Skincare,Packaging,positive,tried,0.02209991,91558,50
+Skincare,Packaging,positive,look,0.021853004,91558,50
+Skincare,Packaging,positive,different,0.021799584,91558,50
+Skincare,Packaging,positive,pretty,0.021705962,91558,50
+Skincare,Packaging,positive,purchase,0.021188852,91558,50
+Skincare,Packaging,positive,purchased,0.02111918,91558,50
+Skincare,Packaging,positive,cream,0.02086061,91558,50
+Skincare,Packaging,positive,fragrance,0.020586218,91558,50
+Skincare,Packaging,positive,need,0.020351653,91558,50
+Skincare,Packaging,positive,small,0.020263761,91558,50
+Skincare,Packaging,positive,keep,0.020178864,91558,50
+Skincare,Packaging,positive,natural,0.019940838,91558,50
+Skincare,Packaging,positive,hand,0.019778982,91558,50
+Skincare,Packaging,positive,sensitive,0.019525406,91558,50
+Skincare,Packaging,positive,lot,0.018716751,91558,50
+Skincare,Packaging,positive,ingredients,0.016511578,91558,50
+Skincare,Packing,negative,broken,0.105315843,6173,50
+Skincare,Packing,negative,damaged,0.080931808,6173,50
+Skincare,Packing,negative,opened,0.065925393,6173,50
+Skincare,Packing,negative,used,0.061849762,6173,50
+Skincare,Packing,negative,sealed,0.05911403,6173,50
+Skincare,Packing,negative,received,0.055942693,6173,50
+Skincare,Packing,negative,soap,0.055146314,6173,50
+Skincare,Packing,negative,item,0.044102782,6173,50
+Skincare,Packing,negative,return,0.040083657,6173,50
+Skincare,Packing,negative,open,0.039382925,6173,50
+Skincare,Packing,negative,package,0.038299517,6173,50
+Skincare,Packing,negative,delivery,0.03745922,6173,50
+Skincare,Packing,negative,smell,0.03579576,6173,50
+Skincare,Packing,negative,inside,0.034030593,6173,50
+Skincare,Packing,negative,plastic,0.031793508,6173,50
+Skincare,Packing,negative,protection,0.030441802,6173,50
+Skincare,Packing,negative,packaging,0.02804305,6173,50
+Skincare,Packing,negative,cream,0.026661434,6173,50
+Skincare,Packing,negative,pump,0.0255231,6173,50
+Skincare,Packing,negative,container,0.025009151,6173,50
+Skincare,Packing,negative,jar,0.024968571,6173,50
+Skincare,Packing,negative,spilled,0.024639789,6173,50
+Skincare,Packing,negative,wrapped,0.024371368,6173,50
+Skincare,Packing,negative,little,0.023698807,6173,50
+Skincare,Packing,negative,missing,0.023634974,6173,50
+Skincare,Packing,negative,tape,0.023214828,6173,50
+Skincare,Packing,negative,boxes,0.023065024,6173,50
+Skincare,Packing,negative,safety,0.022815695,6173,50
+Skincare,Packing,negative,horrible,0.022322106,6173,50
+Skincare,Packing,negative,order,0.022022646,6173,50
+Skincare,Packing,negative,unsealed,0.021803083,6173,50
+Skincare,Packing,negative,empty,0.020704746,6173,50
+Skincare,Packing,negative,looks,0.020001834,6173,50
+Skincare,Packing,negative,disappointing,0.019990558,6173,50
+Skincare,Packing,negative,scent,0.019629233,6173,50
+Skincare,Packing,negative,small,0.019606889,6173,50
+Skincare,Packing,negative,bag,0.019266918,6173,50
+Skincare,Packing,negative,waste,0.019179216,6173,50
+Skincare,Packing,negative,oil,0.018200992,6173,50
+Skincare,Packing,negative,should,0.017630862,6173,50
+Skincare,Packing,negative,gift,0.017588452,6173,50
+Skincare,Packing,negative,terrible,0.017469342,6173,50
+Skincare,Packing,negative,returned,0.017315309,6173,50
+Skincare,Packing,negative,items,0.017276041,6173,50
+Skincare,Packing,negative,dirty,0.01632524,6173,50
+Skincare,Packing,negative,tube,0.0161514,6173,50
+Skincare,Packing,negative,fake,0.016007843,6173,50
+Skincare,Packing,negative,someone,0.015662721,6173,50
+Skincare,Packing,negative,shipping,0.015573528,6173,50
+Skincare,Packing,negative,purchased,0.015031451,6173,50
+Skincare,Packing,positive,delivery,0.137797198,28359,50
+Skincare,Packing,positive,fast,0.070417634,28359,50
+Skincare,Packing,positive,protection,0.066548393,28359,50
+Skincare,Packing,positive,soap,0.064673332,28359,50
+Skincare,Packing,positive,scent,0.048679642,28359,50
+Skincare,Packing,positive,used,0.048096282,28359,50
+Skincare,Packing,positive,smell,0.04646728,28359,50
+Skincare,Packing,positive,damaged,0.04608926,28359,50
+Skincare,Packing,positive,price,0.045010064,28359,50
+Skincare,Packing,positive,sealed,0.044886627,28359,50
+Skincare,Packing,positive,quick,0.037810639,28359,50
+Skincare,Packing,positive,wrapped,0.036506319,28359,50
+Skincare,Packing,positive,received,0.031417821,28359,50
+Skincare,Packing,positive,packaging,0.03016863,28359,50
+Skincare,Packing,positive,perfect,0.027654413,28359,50
+Skincare,Packing,positive,little,0.027584435,28359,50
+Skincare,Packing,positive,works,0.027287342,28359,50
+Skincare,Packing,positive,oil,0.027153763,28359,50
+Skincare,Packing,positive,order,0.027021165,28359,50
+Skincare,Packing,positive,cream,0.026941289,28359,50
+Skincare,Packing,positive,moisturizer,0.026648726,28359,50
+Skincare,Packing,positive,gift,0.02622137,28359,50
+Skincare,Packing,positive,happy,0.025765874,28359,50
+Skincare,Packing,positive,opened,0.025615477,28359,50
+Skincare,Packing,positive,better,0.025371781,28359,50
+Skincare,Packing,positive,package,0.025248863,28359,50
+Skincare,Packing,positive,top,0.025075357,28359,50
+Skincare,Packing,positive,amazing,0.024504277,28359,50
+Skincare,Packing,positive,recommend,0.023766414,28359,50
+Skincare,Packing,positive,plastic,0.02357376,28359,50
+Skincare,Packing,positive,lip,0.023532474,28359,50
+Skincare,Packing,positive,item,0.022632897,28359,50
+Skincare,Packing,positive,purchase,0.021351978,28359,50
+Skincare,Packing,positive,light,0.021113932,28359,50
+Skincare,Packing,positive,definitely,0.02073967,28359,50
+Skincare,Packing,positive,body,0.020649154,28359,50
+Skincare,Packing,positive,quality,0.020568293,28359,50
+Skincare,Packing,positive,boxes,0.020313981,28359,50
+Skincare,Packing,positive,wonderful,0.020265397,28359,50
+Skincare,Packing,positive,soaps,0.020116569,28359,50
+Skincare,Packing,positive,long,0.019516032,28359,50
+Skincare,Packing,positive,tried,0.018676779,28359,50
+Skincare,Packing,positive,open,0.018565387,28359,50
+Skincare,Packing,positive,bag,0.018210125,28359,50
+Skincare,Packing,positive,moisturizing,0.01805126,28359,50
+Skincare,Packing,positive,shipping,0.017948902,28359,50
+Skincare,Packing,positive,inside,0.016833895,28359,50
+Skincare,Packing,positive,mask,0.016265286,28359,50
+Skincare,Packing,positive,bar,0.014738104,28359,50
+Skincare,Packing,positive,butter,0.014068292,28359,50
+Skincare,Quality,negative,dry,0.101368915,52970,50
+Skincare,Quality,negative,smell,0.084441981,52970,50
+Skincare,Quality,negative,used,0.055556716,52970,50
+Skincare,Quality,negative,soap,0.052660145,52970,50
+Skincare,Quality,negative,scent,0.039320099,52970,50
+Skincare,Quality,negative,little,0.038162975,52970,50
+Skincare,Quality,negative,oily,0.03611441,52970,50
+Skincare,Quality,negative,work,0.029481249,52970,50
+Skincare,Quality,negative,oil,0.029435936,52970,50
+Skincare,Quality,negative,lips,0.028210509,52970,50
+Skincare,Quality,negative,works,0.027765156,52970,50
+Skincare,Quality,negative,cream,0.02711301,52970,50
+Skincare,Quality,negative,horrible,0.026295505,52970,50
+Skincare,Quality,negative,tried,0.02598224,52970,50
+Skincare,Quality,negative,sensitive,0.025218288,52970,50
+Skincare,Quality,negative,wash,0.025051709,52970,50
+Skincare,Quality,negative,few,0.025005585,52970,50
+Skincare,Quality,negative,hands,0.024954176,52970,50
+Skincare,Quality,negative,terrible,0.024825614,52970,50
+Skincare,Quality,negative,recommend,0.024376606,52970,50
+Skincare,Quality,negative,soft,0.023499039,52970,50
+Skincare,Quality,negative,thick,0.021920154,52970,50
+Skincare,Quality,negative,cleanser,0.021782163,52970,50
+Skincare,Quality,negative,awful,0.021568463,52970,50
+Skincare,Quality,negative,hard,0.021423049,52970,50
+Skincare,Quality,negative,body,0.021302434,52970,50
+Skincare,Quality,negative,moisturizer,0.020708299,52970,50
+Skincare,Quality,negative,away,0.020692268,52970,50
+Skincare,Quality,negative,acne,0.02068705,52970,50
+Skincare,Quality,negative,nothing,0.020673897,52970,50
+Skincare,Quality,negative,drying,0.020222141,52970,50
+Skincare,Quality,negative,reviews,0.019611502,52970,50
+Skincare,Quality,negative,poor,0.019599442,52970,50
+Skincare,Quality,negative,expensive,0.019412577,52970,50
+Skincare,Quality,negative,makeup,0.018927562,52970,50
+Skincare,Quality,negative,return,0.018899862,52970,50
+Skincare,Quality,negative,leaves,0.01839816,52970,50
+Skincare,Quality,negative,quality,0.018261379,52970,50
+Skincare,Quality,negative,waste,0.017859581,52970,50
+Skincare,Quality,negative,small,0.017135494,52970,50
+Skincare,Quality,negative,smelled,0.017119295,52970,50
+Skincare,Quality,negative,help,0.016544955,52970,50
+Skincare,Quality,negative,long,0.01651919,52970,50
+Skincare,Quality,negative,received,0.016518047,52970,50
+Skincare,Quality,negative,anything,0.016496701,52970,50
+Skincare,Quality,negative,thought,0.016417369,52970,50
+Skincare,Quality,negative,worst,0.015937867,52970,50
+Skincare,Quality,negative,definitely,0.015374236,52970,50
+Skincare,Quality,negative,worse,0.014396342,52970,50
+Skincare,Quality,negative,mask,0.013925913,52970,50
+Skincare,Quality,positive,dry,0.076525313,1109397,50
+Skincare,Quality,positive,soft,0.068098536,1109397,50
+Skincare,Quality,positive,soap,0.064217501,1109397,50
+Skincare,Quality,positive,scent,0.060333347,1109397,50
+Skincare,Quality,positive,clean,0.060212777,1109397,50
+Skincare,Quality,positive,smell,0.059238606,1109397,50
+Skincare,Quality,positive,smooth,0.052000814,1109397,50
+Skincare,Quality,positive,used,0.048023641,1109397,50
+Skincare,Quality,positive,price,0.039322535,1109397,50
+Skincare,Quality,positive,works,0.038654745,1109397,50
+Skincare,Quality,positive,excellent,0.036157937,1109397,50
+Skincare,Quality,positive,moisturizer,0.035171614,1109397,50
+Skincare,Quality,positive,sensitive,0.034684147,1109397,50
+Skincare,Quality,positive,leaves,0.034179391,1109397,50
+Skincare,Quality,positive,oil,0.033339908,1109397,50
+Skincare,Quality,positive,body,0.032957842,1109397,50
+Skincare,Quality,positive,wash,0.032454516,1109397,50
+Skincare,Quality,positive,oily,0.032017533,1109397,50
+Skincare,Quality,positive,cream,0.031094632,1109397,50
+Skincare,Quality,positive,recommend,0.030852798,1109397,50
+Skincare,Quality,positive,little,0.030077384,1109397,50
+Skincare,Quality,positive,cleanser,0.02836109,1109397,50
+Skincare,Quality,positive,makeup,0.026633359,1109397,50
+Skincare,Quality,positive,hands,0.026602447,1109397,50
+Skincare,Quality,positive,long,0.026518399,1109397,50
+Skincare,Quality,positive,amazing,0.02601018,1109397,50
+Skincare,Quality,positive,light,0.025554805,1109397,50
+Skincare,Quality,positive,better,0.025167814,1109397,50
+Skincare,Quality,positive,definitely,0.024211944,1109397,50
+Skincare,Quality,positive,moisturizing,0.02412313,1109397,50
+Skincare,Quality,positive,tried,0.023664073,1109397,50
+Skincare,Quality,positive,lips,0.023577431,1109397,50
+Skincare,Quality,positive,greasy,0.021885404,1109397,50
+Skincare,Quality,positive,serum,0.020459633,1109397,50
+Skincare,Quality,positive,super,0.019870779,1109397,50
+Skincare,Quality,positive,work,0.019046041,1109397,50
+Skincare,Quality,positive,far,0.018958454,1109397,50
+Skincare,Quality,positive,shower,0.018311032,1109397,50
+Skincare,Quality,positive,fragrance,0.018028638,1109397,50
+Skincare,Quality,positive,mask,0.018003734,1109397,50
+Skincare,Quality,positive,need,0.017929465,1109397,50
+Skincare,Quality,positive,keep,0.017727165,1109397,50
+Skincare,Quality,positive,night,0.0176089,1109397,50
+Skincare,Quality,positive,natural,0.017343127,1109397,50
+Skincare,Quality,positive,lot,0.017062746,1109397,50
+Skincare,Quality,positive,found,0.017018741,1109397,50
+Skincare,Quality,positive,acne,0.016143827,1109397,50
+Skincare,Quality,positive,few,0.016038177,1109397,50
+Skincare,Quality,positive,most,0.015678384,1109397,50
+Skincare,Quality,positive,ingredients,0.015572724,1109397,50
+Sun Protection,Packaging,negative,used,0.060735256,644,50
+Sun Protection,Packaging,negative,thick,0.053300527,644,50
+Sun Protection,Packaging,negative,small,0.051361127,644,50
+Sun Protection,Packaging,negative,little,0.050220792,644,50
+Sun Protection,Packaging,negative,return,0.041934665,644,50
+Sun Protection,Packaging,negative,expensive,0.039373651,644,50
+Sun Protection,Packaging,negative,terrible,0.039180672,644,50
+Sun Protection,Packaging,negative,dark,0.038325832,644,50
+Sun Protection,Packaging,negative,received,0.037919126,644,50
+Sun Protection,Packaging,negative,spf,0.032914933,644,50
+Sun Protection,Packaging,negative,label,0.029936199,644,50
+Sun Protection,Packaging,negative,horrible,0.029122205,644,50
+Sun Protection,Packaging,negative,waste,0.028925133,644,50
+Sun Protection,Packaging,negative,difficult,0.028498329,644,50
+Sun Protection,Packaging,negative,smell,0.028466439,644,50
+Sun Protection,Packaging,negative,weird,0.028180538,644,50
+Sun Protection,Packaging,negative,hard,0.028051812,644,50
+Sun Protection,Packaging,negative,tube,0.027140554,644,50
+Sun Protection,Packaging,negative,opened,0.026781893,644,50
+Sun Protection,Packaging,negative,look,0.025650599,644,50
+Sun Protection,Packaging,negative,tried,0.024295826,644,50
+Sun Protection,Packaging,negative,tint,0.024245116,644,50
+Sun Protection,Packaging,negative,makeup,0.023832622,644,50
+Sun Protection,Packaging,negative,broken,0.02309421,644,50
+Sun Protection,Packaging,negative,work,0.022844593,644,50
+Sun Protection,Packaging,negative,leaves,0.02280002,644,50
+Sun Protection,Packaging,negative,pump,0.022723515,644,50
+Sun Protection,Packaging,negative,powder,0.022587383,644,50
+Sun Protection,Packaging,negative,base,0.020749181,644,50
+Sun Protection,Packaging,negative,cast,0.020669713,644,50
+Sun Protection,Packaging,negative,looks,0.020544086,644,50
+Sun Protection,Packaging,negative,works,0.02049771,644,50
+Sun Protection,Packaging,negative,price,0.020436778,644,50
+Sun Protection,Packaging,negative,awful,0.019880434,644,50
+Sun Protection,Packaging,negative,wrong,0.019688532,644,50
+Sun Protection,Packaging,negative,extremely,0.01964337,644,50
+Sun Protection,Packaging,negative,need,0.01939793,644,50
+Sun Protection,Packaging,negative,tinted,0.019229716,644,50
+Sun Protection,Packaging,negative,unfortunately,0.019068754,644,50
+Sun Protection,Packaging,negative,packaging,0.018424065,644,50
+Sun Protection,Packaging,negative,different,0.01819409,644,50
+Sun Protection,Packaging,negative,should,0.017919409,644,50
+Sun Protection,Packaging,negative,item,0.017854011,644,50
+Sun Protection,Packaging,negative,sunscreens,0.017444037,644,50
+Sun Protection,Packaging,negative,de,0.017382863,644,50
+Sun Protection,Packaging,negative,design,0.017147077,644,50
+Sun Protection,Packaging,negative,brush,0.015897866,644,50
+Sun Protection,Packaging,negative,spread,0.015561028,644,50
+Sun Protection,Packaging,negative,la,0.014344266,644,50
+Sun Protection,Packaging,negative,size,0.014048911,644,50
+Sun Protection,Packaging,positive,light,0.076355371,3666,50
+Sun Protection,Packaging,positive,spf,0.055564993,3666,50
+Sun Protection,Packaging,positive,used,0.054476844,3666,50
+Sun Protection,Packaging,positive,little,0.054319918,3666,50
+Sun Protection,Packaging,positive,easy,0.048628056,3666,50
+Sun Protection,Packaging,positive,greasy,0.046852753,3666,50
+Sun Protection,Packaging,positive,works,0.046569739,3666,50
+Sun Protection,Packaging,positive,tinted,0.044859977,3666,50
+Sun Protection,Packaging,positive,makeup,0.044203005,3666,50
+Sun Protection,Packaging,positive,perfect,0.043420973,3666,50
+Sun Protection,Packaging,positive,protection,0.042541944,3666,50
+Sun Protection,Packaging,positive,tint,0.040104006,3666,50
+Sun Protection,Packaging,positive,look,0.039953129,3666,50
+Sun Protection,Packaging,positive,smell,0.03665582,3666,50
+Sun Protection,Packaging,positive,coverage,0.035988811,3666,50
+Sun Protection,Packaging,positive,wear,0.035846143,3666,50
+Sun Protection,Packaging,positive,foundation,0.035636189,3666,50
+Sun Protection,Packaging,positive,sunscreens,0.034881727,3666,50
+Sun Protection,Packaging,positive,sensitive,0.034406517,3666,50
+Sun Protection,Packaging,positive,tried,0.033777726,3666,50
+Sun Protection,Packaging,positive,fair,0.033176029,3666,50
+Sun Protection,Packaging,positive,easily,0.032412846,3666,50
+Sun Protection,Packaging,positive,better,0.032243233,3666,50
+Sun Protection,Packaging,positive,moisturizer,0.030743965,3666,50
+Sun Protection,Packaging,positive,recommend,0.030584044,3666,50
+Sun Protection,Packaging,positive,cast,0.030018297,3666,50
+Sun Protection,Packaging,positive,most,0.029442018,3666,50
+Sun Protection,Packaging,positive,scent,0.028774167,3666,50
+Sun Protection,Packaging,positive,work,0.028177556,3666,50
+Sun Protection,Packaging,positive,tone,0.02802463,3666,50
+Sun Protection,Packaging,positive,price,0.027822038,3666,50
+Sun Protection,Packaging,positive,need,0.027350007,3666,50
+Sun Protection,Packaging,positive,gives,0.026525059,3666,50
+Sun Protection,Packaging,positive,definitely,0.026338751,3666,50
+Sun Protection,Packaging,positive,long,0.026033517,3666,50
+Sun Protection,Packaging,positive,wish,0.025914943,3666,50
+Sun Protection,Packaging,positive,blends,0.025488733,3666,50
+Sun Protection,Packaging,positive,top,0.025341429,3666,50
+Sun Protection,Packaging,positive,natural,0.023877618,3666,50
+Sun Protection,Packaging,positive,looks,0.023188073,3666,50
+Sun Protection,Packaging,positive,sunblock,0.023184979,3666,50
+Sun Protection,Packaging,positive,found,0.022750113,3666,50
+Sun Protection,Packaging,positive,zinc,0.022472914,3666,50
+Sun Protection,Packaging,positive,dark,0.022180084,3666,50
+Sun Protection,Packaging,positive,want,0.021683275,3666,50
+Sun Protection,Packaging,positive,mineral,0.021584683,3666,50
+Sun Protection,Packaging,positive,lot,0.021202918,3666,50
+Sun Protection,Packaging,positive,pretty,0.020773186,3666,50
+Sun Protection,Packaging,positive,cream,0.020479533,3666,50
+Sun Protection,Packaging,positive,ingredients,0.019562429,3666,50
+Sun Protection,Packing,negative,protection,0.20414168,359,50
+Sun Protection,Packing,negative,used,0.082435227,359,50
+Sun Protection,Packing,negative,opened,0.068291205,359,50
+Sun Protection,Packing,negative,damaged,0.066436097,359,50
+Sun Protection,Packing,negative,broken,0.045696187,359,50
+Sun Protection,Packing,negative,works,0.038740814,359,50
+Sun Protection,Packing,negative,little,0.038177076,359,50
+Sun Protection,Packing,negative,horrible,0.038061054,359,50
+Sun Protection,Packing,negative,thick,0.03768211,359,50
+Sun Protection,Packing,negative,sealed,0.034242092,359,50
+Sun Protection,Packing,negative,expensive,0.033667494,359,50
+Sun Protection,Packing,negative,return,0.033237884,359,50
+Sun Protection,Packing,negative,greasy,0.032672293,359,50
+Sun Protection,Packing,negative,terrible,0.032382237,359,50
+Sun Protection,Packing,negative,tube,0.031045196,359,50
+Sun Protection,Packing,negative,look,0.03061614,359,50
+Sun Protection,Packing,negative,spf,0.030235321,359,50
+Sun Protection,Packing,negative,received,0.029743231,359,50
+Sun Protection,Packing,negative,item,0.029476877,359,50
+Sun Protection,Packing,negative,hard,0.028134484,359,50
+Sun Protection,Packing,negative,moisturizer,0.025761919,359,50
+Sun Protection,Packing,negative,worst,0.025015652,359,50
+Sun Protection,Packing,negative,sticky,0.024737353,359,50
+Sun Protection,Packing,negative,safety,0.024461761,359,50
+Sun Protection,Packing,negative,wear,0.023752793,359,50
+Sun Protection,Packing,negative,work,0.023664451,359,50
+Sun Protection,Packing,negative,leaves,0.022821942,359,50
+Sun Protection,Packing,negative,unfortunately,0.022036594,359,50
+Sun Protection,Packing,negative,heavy,0.021875853,359,50
+Sun Protection,Packing,negative,looks,0.021649735,359,50
+Sun Protection,Packing,negative,lips,0.021356072,359,50
+Sun Protection,Packing,negative,lip,0.021112498,359,50
+Sun Protection,Packing,negative,smell,0.021028831,359,50
+Sun Protection,Packing,negative,moisturizing,0.020935633,359,50
+Sun Protection,Packing,negative,tell,0.020720633,359,50
+Sun Protection,Packing,negative,small,0.019519904,359,50
+Sun Protection,Packing,negative,makeup,0.019302327,359,50
+Sun Protection,Packing,negative,recommend,0.019182663,359,50
+Sun Protection,Packing,negative,cream,0.019182457,359,50
+Sun Protection,Packing,negative,someone,0.018755303,359,50
+Sun Protection,Packing,negative,package,0.018394595,359,50
+Sun Protection,Packing,negative,difficult,0.01836269,359,50
+Sun Protection,Packing,negative,spread,0.01830194,359,50
+Sun Protection,Packing,negative,taste,0.018153449,359,50
+Sun Protection,Packing,negative,mineral,0.018133077,359,50
+Sun Protection,Packing,negative,want,0.017690349,359,50
+Sun Protection,Packing,negative,tried,0.016883454,359,50
+Sun Protection,Packing,negative,zinc,0.01581676,359,50
+Sun Protection,Packing,negative,oxide,0.013841396,359,50
+Sun Protection,Packing,negative,balm,0.01347078,359,50
+Sun Protection,Packing,positive,protection,0.25221876,3365,50
+Sun Protection,Packing,positive,light,0.056406653,3365,50
+Sun Protection,Packing,positive,spf,0.054685692,3365,50
+Sun Protection,Packing,positive,used,0.05276336,3365,50
+Sun Protection,Packing,positive,easy,0.051603493,3365,50
+Sun Protection,Packing,positive,greasy,0.0505339,3365,50
+Sun Protection,Packing,positive,makeup,0.04170832,3365,50
+Sun Protection,Packing,positive,provides,0.040065304,3365,50
+Sun Protection,Packing,positive,sensitive,0.038405797,3365,50
+Sun Protection,Packing,positive,works,0.037056111,3365,50
+Sun Protection,Packing,positive,moisturizer,0.036953404,3365,50
+Sun Protection,Packing,positive,perfect,0.035982318,3365,50
+Sun Protection,Packing,positive,smell,0.034372444,3365,50
+Sun Protection,Packing,positive,need,0.033065053,3365,50
+Sun Protection,Packing,positive,recommend,0.031820729,3365,50
+Sun Protection,Packing,positive,delivery,0.030841146,3365,50
+Sun Protection,Packing,positive,gives,0.030201753,3365,50
+Sun Protection,Packing,positive,scent,0.030178081,3365,50
+Sun Protection,Packing,positive,little,0.029824247,3365,50
+Sun Protection,Packing,positive,coverage,0.029435081,3365,50
+Sun Protection,Packing,positive,easily,0.028362907,3365,50
+Sun Protection,Packing,positive,daily,0.027936407,3365,50
+Sun Protection,Packing,positive,wear,0.027917014,3365,50
+Sun Protection,Packing,positive,long,0.027618554,3365,50
+Sun Protection,Packing,positive,tint,0.026764563,3365,50
+Sun Protection,Packing,positive,zinc,0.026477781,3365,50
+Sun Protection,Packing,positive,better,0.026317781,3365,50
+Sun Protection,Packing,positive,moisturizing,0.025958082,3365,50
+Sun Protection,Packing,positive,cast,0.025576466,3365,50
+Sun Protection,Packing,positive,amazing,0.025397745,3365,50
+Sun Protection,Packing,positive,look,0.025288831,3365,50
+Sun Protection,Packing,positive,sunscreens,0.024616955,3365,50
+Sun Protection,Packing,positive,most,0.024256839,3365,50
+Sun Protection,Packing,positive,tried,0.024125828,3365,50
+Sun Protection,Packing,positive,foundation,0.023662642,3365,50
+Sun Protection,Packing,positive,definitely,0.023417828,3365,50
+Sun Protection,Packing,positive,price,0.023119302,3365,50
+Sun Protection,Packing,positive,tinted,0.022982785,3365,50
+Sun Protection,Packing,positive,recommended,0.02162782,3365,50
+Sun Protection,Packing,positive,lightweight,0.021476629,3365,50
+Sun Protection,Packing,positive,cream,0.021098511,3365,50
+Sun Protection,Packing,positive,highly,0.019928198,3365,50
+Sun Protection,Packing,positive,found,0.019178718,3365,50
+Sun Protection,Packing,positive,fair,0.018792284,3365,50
+Sun Protection,Packing,positive,summer,0.018539168,3365,50
+Sun Protection,Packing,positive,mineral,0.018465414,3365,50
+Sun Protection,Packing,positive,work,0.0184556,3365,50
+Sun Protection,Packing,positive,burn,0.018185204,3365,50
+Sun Protection,Packing,positive,tube,0.018161633,3365,50
+Sun Protection,Packing,positive,lot,0.017054128,3365,50
+Sun Protection,Quality,negative,oily,0.083903305,2455,50
+Sun Protection,Quality,negative,dry,0.082589939,2455,50
+Sun Protection,Quality,negative,used,0.050185156,2455,50
+Sun Protection,Quality,negative,leaves,0.047696459,2455,50
+Sun Protection,Quality,negative,cast,0.04597041,2455,50
+Sun Protection,Quality,negative,smell,0.043992932,2455,50
+Sun Protection,Quality,negative,thick,0.042605148,2455,50
+Sun Protection,Quality,negative,look,0.040255657,2455,50
+Sun Protection,Quality,negative,greasy,0.03907747,2455,50
+Sun Protection,Quality,negative,little,0.037042147,2455,50
+Sun Protection,Quality,negative,hard,0.036893946,2455,50
+Sun Protection,Quality,negative,horrible,0.035461455,2455,50
+Sun Protection,Quality,negative,terrible,0.034927935,2455,50
+Sun Protection,Quality,negative,work,0.034883942,2455,50
+Sun Protection,Quality,negative,tried,0.032312826,2455,50
+Sun Protection,Quality,negative,makeup,0.031919385,2455,50
+Sun Protection,Quality,negative,return,0.029979761,2455,50
+Sun Protection,Quality,negative,lips,0.028962004,2455,50
+Sun Protection,Quality,negative,recommend,0.028188935,2455,50
+Sun Protection,Quality,negative,badly,0.028076609,2455,50
+Sun Protection,Quality,negative,protection,0.026648672,2455,50
+Sun Protection,Quality,negative,worst,0.026387103,2455,50
+Sun Protection,Quality,negative,spread,0.026378492,2455,50
+Sun Protection,Quality,negative,spf,0.026002491,2455,50
+Sun Protection,Quality,negative,burned,0.025985634,2455,50
+Sun Protection,Quality,negative,sensitive,0.023932788,2455,50
+Sun Protection,Quality,negative,rub,0.023837756,2455,50
+Sun Protection,Quality,negative,awful,0.023260735,2455,50
+Sun Protection,Quality,negative,works,0.022853879,2455,50
+Sun Protection,Quality,negative,drying,0.022534634,2455,50
+Sun Protection,Quality,negative,shiny,0.02203021,2455,50
+Sun Protection,Quality,negative,sunscreens,0.021715576,2455,50
+Sun Protection,Quality,negative,break,0.021555452,2455,50
+Sun Protection,Quality,negative,looks,0.021473916,2455,50
+Sun Protection,Quality,negative,moisturizer,0.021038054,2455,50
+Sun Protection,Quality,negative,reviews,0.021027692,2455,50
+Sun Protection,Quality,negative,away,0.02040841,2455,50
+Sun Protection,Quality,negative,tube,0.020036631,2455,50
+Sun Protection,Quality,negative,few,0.019988208,2455,50
+Sun Protection,Quality,negative,hours,0.019637259,2455,50
+Sun Protection,Quality,negative,thought,0.019577175,2455,50
+Sun Protection,Quality,negative,heavy,0.0191529,2455,50
+Sun Protection,Quality,negative,hate,0.019034111,2455,50
+Sun Protection,Quality,negative,extremely,0.018689244,2455,50
+Sun Protection,Quality,negative,times,0.018134184,2455,50
+Sun Protection,Quality,negative,tinted,0.017847076,2455,50
+Sun Protection,Quality,negative,wear,0.017822227,2455,50
+Sun Protection,Quality,negative,oil,0.016706615,2455,50
+Sun Protection,Quality,negative,applying,0.016509618,2455,50
+Sun Protection,Quality,negative,minutes,0.016272519,2455,50
+Sun Protection,Quality,positive,oily,0.083450651,30603,50
+Sun Protection,Quality,positive,smooth,0.061830112,30603,50
+Sun Protection,Quality,positive,light,0.055294637,30603,50
+Sun Protection,Quality,positive,protection,0.055142926,30603,50
+Sun Protection,Quality,positive,dry,0.053705118,30603,50
+Sun Protection,Quality,positive,greasy,0.053510738,30603,50
+Sun Protection,Quality,positive,spf,0.051246387,30603,50
+Sun Protection,Quality,positive,makeup,0.050345538,30603,50
+Sun Protection,Quality,positive,used,0.048825898,30603,50
+Sun Protection,Quality,positive,works,0.045761447,30603,50
+Sun Protection,Quality,positive,sensitive,0.043856324,30603,50
+Sun Protection,Quality,positive,moisturizer,0.042354974,30603,50
+Sun Protection,Quality,positive,little,0.041981579,30603,50
+Sun Protection,Quality,positive,excellent,0.040491264,30603,50
+Sun Protection,Quality,positive,smell,0.039514077,30603,50
+Sun Protection,Quality,positive,easy,0.038558215,30603,50
+Sun Protection,Quality,positive,sunscreens,0.038008987,30603,50
+Sun Protection,Quality,positive,cast,0.037562285,30603,50
+Sun Protection,Quality,positive,look,0.037037269,30603,50
+Sun Protection,Quality,positive,recommend,0.033932727,30603,50
+Sun Protection,Quality,positive,tried,0.030960882,30603,50
+Sun Protection,Quality,positive,coverage,0.030814807,30603,50
+Sun Protection,Quality,positive,price,0.030623248,30603,50
+Sun Protection,Quality,positive,tint,0.030594556,30603,50
+Sun Protection,Quality,positive,wear,0.030583959,30603,50
+Sun Protection,Quality,positive,scent,0.030456558,30603,50
+Sun Protection,Quality,positive,smoothly,0.030253065,30603,50
+Sun Protection,Quality,positive,leaves,0.030119742,30603,50
+Sun Protection,Quality,positive,perfect,0.029506144,30603,50
+Sun Protection,Quality,positive,foundation,0.028377775,30603,50
+Sun Protection,Quality,positive,tinted,0.028181991,30603,50
+Sun Protection,Quality,positive,soft,0.02802436,30603,50
+Sun Protection,Quality,positive,easily,0.027332016,30603,50
+Sun Protection,Quality,positive,super,0.026613906,30603,50
+Sun Protection,Quality,positive,most,0.025557776,30603,50
+Sun Protection,Quality,positive,need,0.025478382,30603,50
+Sun Protection,Quality,positive,better,0.024813759,30603,50
+Sun Protection,Quality,positive,matte,0.024461163,30603,50
+Sun Protection,Quality,positive,definitely,0.02430559,30603,50
+Sun Protection,Quality,positive,moisturizing,0.024229091,30603,50
+Sun Protection,Quality,positive,long,0.023956259,30603,50
+Sun Protection,Quality,positive,daily,0.023348224,30603,50
+Sun Protection,Quality,positive,found,0.023346216,30603,50
+Sun Protection,Quality,positive,work,0.023332003,30603,50
+Sun Protection,Quality,positive,mineral,0.022739143,30603,50
+Sun Protection,Quality,positive,pretty,0.022529665,30603,50
+Sun Protection,Quality,positive,cream,0.022456631,30603,50
+Sun Protection,Quality,positive,lot,0.021820486,30603,50
+Sun Protection,Quality,positive,sunblock,0.021697534,30603,50
+Sun Protection,Quality,positive,ingredients,0.021535269,30603,50
